@@ -1,0 +1,1357 @@
+[
+  {
+    "issue": "98rk18wwv58m",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "Oracle",
+    "service": "Console",
+    "location": [
+      "ca-toronto-1",
+      "eu-frankfurt-1",
+      "uk-london-1",
+      "us-ashburn-1",
+      "us-phoenix-1",
+      "ap-tokyo-1",
+      "ap-seoul-1",
+      "us-langley-1",
+      "us-luke-1",
+      "us-gov-ashburn-1",
+      "us-gov-chicago-1",
+      "us-gov-phoenix-1"
+    ],
+    "duration": 47.0,
+    "affect_rate": null,
+    "impact": "outage",
+    "cause": "",
+    "intensity": "",
+    "time": "2019-06-27 06:13"
+  },
+  {
+    "issue": "wlsglzcnnc5r",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "Oracle",
+    "service": "Networking - Virtual Cloud Networks",
+    "location": [
+      "us-ashburn-1"
+    ],
+    "duration": 120.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2019-06-12 13:23"
+  },
+  {
+    "issue": "82bsskn4l5yd",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "Oracle",
+    "service": "Object Storage",
+    "location": [
+      "us-ashburn-1"
+    ],
+    "duration": 229.0,
+    "affect_rate": null,
+    "impact": "outage",
+    "cause": "",
+    "intensity": "",
+    "time": "2019-05-20 16:18"
+  },
+  {
+    "issue": "yrqsyqcvykm1",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "Oracle",
+    "service": "Block Storage - Block Volumes",
+    "location": [
+      "ca-toronto-1",
+      "eu-frankfurt-1",
+      "uk-london-1",
+      "us-ashburn-1",
+      "us-phoenix-1",
+      "us-langley-1",
+      "us-luke-1",
+      "us-gov-ashburn-1",
+      "us-gov-chicago-1",
+      "us-gov-phoenix-1"
+    ],
+    "duration": 2520.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2019-04-29 23:59"
+  },
+  {
+    "issue": "rhs7dbbl5ql5",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "Oracle",
+    "service": "File Storage (us-ashburn-1 region) and Developer Services - Container Clusters (OKE)",
+    "location": [
+      "us-ashburn-1"
+    ],
+    "duration": 28.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2019-05-01 01:27"
+  },
+  {
+    "issue": "ql0qfk8h7h4r",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "Oracle",
+    "service": "Developer Services - Registry (OCIR)",
+    "location": [
+      "us-phoenix-1"
+    ],
+    "duration": 93.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2019-04-05 03:45"
+  },
+  {
+    "issue": "cn8yj40mpv0x",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "Oracle",
+    "service": "Developer Services - Container Clusters (OKE)",
+    "location": [
+      "eu-frankfurt-1",
+      "us-ashburn-1",
+      "us-phoenix-1"
+    ],
+    "duration": 250.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2019-03-22 11:28"
+  },
+  {
+    "issue": "vg3rb2fbwp1t",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "Oracle",
+    "service": "Developer Services - Container Clusters (OKE)",
+    "location": [
+      "ca-toronto-1"
+    ],
+    "duration": 102.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2019-02-26 14:38"
+  },
+  {
+    "issue": "3zgwj7hdbjd6",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "Oracle",
+    "service": "Developer Services - Container Clusters (OKE)",
+    "location": [
+      "us-ashburn-1"
+    ],
+    "duration": 34.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2019-02-25 21:19"
+  },
+  {
+    "issue": "9fjps78rdsz6",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "Oracle",
+    "service": "",
+    "location": [],
+    "duration": 240.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-12-19 02:00"
+  },
+  {
+    "issue": "r6v1xlxlp4kh",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "Oracle",
+    "service": "Block Storage",
+    "location": [
+      "us-phoenix-1"
+    ],
+    "duration": 101.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-10-27 20:44"
+  },
+  {
+    "issue": "7c0t7mxv9tvc",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "Oracle",
+    "service": "Developer Services - Container Clusters (OKE)",
+    "location": [
+      "us-ashburn-1"
+    ],
+    "duration": 86.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-10-24 09:56"
+  },
+  {
+    "issue": "xbmnx4tjlywp",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "Oracle",
+    "service": "Console",
+    "location": [
+      "ca-toronto-1"
+    ],
+    "duration": 40.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-10-22 19:50"
+  },
+  {
+    "issue": "b84knsvwsx4t",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "Oracle",
+    "service": "File Storage",
+    "location": [
+      "us-phoenix-1"
+    ],
+    "duration": 47.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-10-18 09:09"
+  },
+  {
+    "issue": "xsgn0y9bpzb4",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "Oracle",
+    "service": "Developer Services - Container Clusters (OKE)",
+    "location": [
+      "us-ashburn-1"
+    ],
+    "duration": 26.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-10-16 20:50"
+  },
+  {
+    "issue": "yzldlcyhr45d",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "Oracle",
+    "service": "Identity",
+    "location": [
+      "us-phoenix-1"
+    ],
+    "duration": 31.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-10-16 12:17"
+  },
+  {
+    "issue": "l7wctntz66v4",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "Oracle",
+    "service": "Compute - Instances",
+    "location": [
+      "us-ashburn-1"
+    ],
+    "duration": 15.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-10-10 16:15"
+  },
+  {
+    "issue": "lnpnncdwnp52",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "Oracle",
+    "service": "Block Storage - Block Volume Backups",
+    "location": [
+      "eu-frankfurt-1",
+      "uk-london-1",
+      "us-ashburn-1",
+      "us-phoenix-1"
+    ],
+    "duration": 377.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-10-08 07:11"
+  },
+  {
+    "issue": "g9r8y4vkl8p8",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "Oracle",
+    "service": "",
+    "location": [
+      "us-phoenix-1"
+    ],
+    "duration": 45.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-10-06 15:06"
+  },
+  {
+    "issue": "gyr72f60jwhm",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "Oracle",
+    "service": "Virtual Cloud Network (VCN)",
+    "location": [
+      "us-phoenix-1"
+    ],
+    "duration": 178.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-10-04 11:14"
+  },
+  {
+    "issue": "s3r206cls5sj",
+    "provider_type": "INFRASTRUCTURE_SERVICE_DNS",
+    "provider": "Oracle",
+    "service": "DNS",
+    "location": [
+      "All"
+    ],
+    "duration": 106.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-10-03 17:49"
+  },
+  {
+    "issue": "vs6rg96w90jj",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "Oracle",
+    "service": "Identity",
+    "location": [
+      "us-phoenix-1"
+    ],
+    "duration": 59.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-10-02 23:31"
+  },
+  {
+    "issue": "wb81hz4v2z1t",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "Oracle",
+    "service": "Virtual Cloud Network (VCN)",
+    "location": [
+      "us-phoenix-1"
+    ],
+    "duration": 1182.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-09-29 01:42"
+  },
+  {
+    "issue": "7f1s5c5cxb8t",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "Oracle",
+    "service": "Console",
+    "location": [
+      "ca-toronto-1"
+    ],
+    "duration": 16.0,
+    "affect_rate": null,
+    "impact": "outage",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-09-25 15:20"
+  },
+  {
+    "issue": "lnvpyl2kswy6",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "Oracle",
+    "service": "Object Storage",
+    "location": [
+      "us-ashburn-1"
+    ],
+    "duration": 21.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-09-20 20:44"
+  },
+  {
+    "issue": "528jny0bxbrc",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "Oracle",
+    "service": "Email Delivery - Email Approved Senders",
+    "location": [
+      "us-ashburn-1",
+      "us-phoenix-1"
+    ],
+    "duration": 48.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-09-16 09:16"
+  },
+  {
+    "issue": "9dvskrndh98b",
+    "provider_type": "INFRASTRUCTURE_SERVICE_DNS",
+    "provider": "Oracle",
+    "service": "Edge Services - DNS Zone Management (eu-frankfurt-1 region, uk-london-1 region, us-ashburn-1 region, us-phoenix-1 region) and Developer Services - Container Clusters (OKE)",
+    "location": [
+      "eu-frankfurt-1",
+      "uk-london-1",
+      "us-ashburn-1",
+      "us-phoenix-1"
+    ],
+    "duration": 235.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-09-10 07:40"
+  },
+  {
+    "issue": "jpmyvgrxq4lq",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "Oracle",
+    "service": "Email Delivery",
+    "location": [
+      "us-phoenix-1"
+    ],
+    "duration": 181.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-09-10 08:12"
+  },
+  {
+    "issue": "kxdyptm9972q",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "Oracle",
+    "service": "Developer Services - Container Clusters (OKE)",
+    "location": [
+      "eu-frankfurt-1",
+      "uk-london-1",
+      "us-ashburn-1",
+      "us-phoenix-1"
+    ],
+    "duration": 232.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-09-10 00:08"
+  },
+  {
+    "issue": "m3c6x91xy9w2",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "Oracle",
+    "service": "Networking - Load Balancing (us-ashburn-1 region), Networking - Dynamic Routing Gateways (us-ashburn-1 region), and Networking - FastConnect",
+    "location": [
+      "us-ashburn-1"
+    ],
+    "duration": 552.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-09-08 15:18"
+  },
+  {
+    "issue": "cw0bvxjn85wf",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "Oracle",
+    "service": "Developer Services - Container Clusters (OKE)",
+    "location": [
+      "uk-london-1"
+    ],
+    "duration": 67.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-09-07 15:02"
+  },
+  {
+    "issue": "gprwskp1zs2x",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "Oracle",
+    "service": "Identity",
+    "location": [
+      "us-phoenix-1"
+    ],
+    "duration": 229.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-09-06 19:08"
+  },
+  {
+    "issue": "kzpnfrvbhv28",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "Oracle",
+    "service": "Block Storage - Block Volumes (us-phoenix-1 region) and Block Storage - Block Volume Backups",
+    "location": [
+      "us-phoenix-1"
+    ],
+    "duration": 67.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-09-06 04:48"
+  },
+  {
+    "issue": "65hd2k35zs6f",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "Oracle",
+    "service": "Edge Services - Internet Intelligence",
+    "location": [
+      "eu-frankfurt-1",
+      "uk-london-1",
+      "us-ashburn-1",
+      "us-phoenix-1"
+    ],
+    "duration": 114.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-09-04 11:01"
+  },
+  {
+    "issue": "qd402qkn5fd0",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "Oracle",
+    "service": "Identity",
+    "location": [
+      "us-phoenix-1"
+    ],
+    "duration": 19.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-08-28 12:13"
+  },
+  {
+    "issue": "z7c5zb0jy92m",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "Oracle",
+    "service": "Developer Services - Container Clusters (OKE)",
+    "location": [
+      "uk-london-1"
+    ],
+    "duration": 54.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-08-22 10:39"
+  },
+  {
+    "issue": "jk8lyvxs0884",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "Oracle",
+    "service": "Container Engine for Kubernetes",
+    "location": [
+      "multiple"
+    ],
+    "duration": 40.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-08-22 08:20"
+  },
+  {
+    "issue": "mfsyhg30nmpl",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "Oracle",
+    "service": "Container Engine for Kubernetes [CN-1986]",
+    "location": [
+      "us-ashburn-1"
+    ],
+    "duration": 347.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-08-21 02:08"
+  },
+  {
+    "issue": "pkrqgqhnr2jk",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "Oracle",
+    "service": "Console",
+    "location": [
+      "ca-toronto-1"
+    ],
+    "duration": 17.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-08-20 15:11"
+  },
+  {
+    "issue": "v5yzvlz7kcb3",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "Oracle",
+    "service": "Console",
+    "location": [
+      "ca-toronto-1"
+    ],
+    "duration": 40.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-08-19 02:30"
+  },
+  {
+    "issue": "qx557mlpwnsl",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "Oracle",
+    "service": "Console",
+    "location": [
+      "ca-toronto-1"
+    ],
+    "duration": 34.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-08-17 17:48"
+  },
+  {
+    "issue": "rc4hlwq5j8dd",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "Oracle",
+    "service": "General Networking",
+    "location": [
+      "uk-london-1"
+    ],
+    "duration": 116.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-08-15 09:38"
+  },
+  {
+    "issue": "thpchgff380z",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "Oracle",
+    "service": "Console",
+    "location": [
+      "ca-toronto-1"
+    ],
+    "duration": 117.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-08-14 17:55"
+  },
+  {
+    "issue": "50nc46zysc10",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "Oracle",
+    "service": "Identity",
+    "location": [
+      "us-ashburn-1"
+    ],
+    "duration": 48.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-08-13 10:05"
+  },
+  {
+    "issue": "70qxnp5r1mm2",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "Oracle",
+    "service": "Console",
+    "location": [
+      "ca-toronto-1"
+    ],
+    "duration": 30.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-08-08 16:36"
+  },
+  {
+    "issue": "wqkj0d5snxw2",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "Oracle",
+    "service": "General Networking",
+    "location": [
+      "us-phoenix-1"
+    ],
+    "duration": 71.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-08-03 18:42"
+  },
+  {
+    "issue": "p853bt0y8sbf",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "Oracle",
+    "service": "Console (ca-toronto-1 region) and File Storage",
+    "location": [
+      "eu-frankfurt-1",
+      "uk-london-1",
+      "us-ashburn-1",
+      "us-phoenix-1"
+    ],
+    "duration": 148.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-07-31 03:00"
+  },
+  {
+    "issue": "wz9799qlcx76",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "Oracle",
+    "service": "Compute - Instances",
+    "location": [
+      "us-ashburn-1"
+    ],
+    "duration": 298.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-07-30 05:11"
+  },
+  {
+    "issue": "spcwk6c1yvqq",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "Oracle",
+    "service": "Console (ca-toronto-1 region) and Identity",
+    "location": [
+      "eu-frankfurt-1",
+      "uk-london-1",
+      "us-ashburn-1",
+      "us-phoenix-1"
+    ],
+    "duration": 239.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-07-24 23:21"
+  },
+  {
+    "issue": "ky8r7zzzrk30",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "Oracle",
+    "service": "Multiple Core Services",
+    "location": [
+      "us-ashburn-1"
+    ],
+    "duration": 36.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-07-24 19:53"
+  },
+  {
+    "issue": "ndpjzpwbb9d3",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "Oracle",
+    "service": "Console",
+    "location": [
+      "ca-toronto-1"
+    ],
+    "duration": 196.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-07-19 19:05"
+  },
+  {
+    "issue": "jwhfwwn0mqpk",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "Oracle",
+    "service": "Networking - Load Balancing",
+    "location": [
+      "us-phoenix-1"
+    ],
+    "duration": 45.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-07-17 14:50"
+  },
+  {
+    "issue": "6sztf118tkgd",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "Oracle",
+    "service": "Compute - Instances",
+    "location": [
+      "uk-london-1"
+    ],
+    "duration": 77.0,
+    "affect_rate": null,
+    "impact": "outage",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-07-09 20:04"
+  },
+  {
+    "issue": "9mgqwt34y1yw",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "Oracle",
+    "service": "Compute",
+    "location": [
+      "us-ashburn-1"
+    ],
+    "duration": 36.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-07-02 20:10"
+  },
+  {
+    "issue": "fq2wj18k85hb",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "Oracle",
+    "service": "Networking",
+    "location": [
+      "us-ashburn-1",
+      "us-phoenix-1"
+    ],
+    "duration": 87.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-06-27 20:28"
+  },
+  {
+    "issue": "zqwchdbyvyg6",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "Oracle",
+    "service": "Internet Intelligence",
+    "location": [
+      "All"
+    ],
+    "duration": 26.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-06-27 06:56"
+  },
+  {
+    "issue": "y5nz7kfsdcxg",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "Oracle",
+    "service": "Console",
+    "location": [
+      "ca-toronto-1"
+    ],
+    "duration": 85.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-06-25 07:48"
+  },
+  {
+    "issue": "qjq9d9bctnbw",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "Oracle",
+    "service": "Compute - Instances",
+    "location": [
+      "us-phoenix-1"
+    ],
+    "duration": 31.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-06-23 07:31"
+  },
+  {
+    "issue": "jm79xznv9yjm",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "Oracle",
+    "service": "Container Engine for Kubernetes",
+    "location": [
+      "us-ashburn-1",
+      "us-phoenix-1",
+      "eu-frankfurt-1",
+      "uk-london-1"
+    ],
+    "duration": 70.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-06-21 08:19"
+  },
+  {
+    "issue": "2lx54d0s66g2",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "Oracle",
+    "service": "Identity",
+    "location": [
+      "us-phoenix-1"
+    ],
+    "duration": 20.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-06-12 21:41"
+  },
+  {
+    "issue": "1qyg6j2lzmm5",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "Oracle",
+    "service": "Dynamic Routing Gateways",
+    "location": [
+      "us-ashburn-1"
+    ],
+    "duration": 40.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-05-30 14:40"
+  },
+  {
+    "issue": "tz8vmm00zv3c",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "Oracle",
+    "service": "Object Storage",
+    "location": [
+      "uk-london-1"
+    ],
+    "duration": 89.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-05-24 19:46"
+  },
+  {
+    "issue": "z7sz5ytqzvhd",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "Oracle",
+    "service": "Networking - Load Balancing",
+    "location": [
+      "uk-london-1"
+    ],
+    "duration": 189.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-05-23 18:16"
+  },
+  {
+    "issue": "xgy9ktssjd14",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "Oracle",
+    "service": "Object Storage",
+    "location": [
+      "us-phoenix-1"
+    ],
+    "duration": 50.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-05-20 09:40"
+  },
+  {
+    "issue": "d93sq5vzt57x",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "Oracle",
+    "service": "Email",
+    "location": [
+      "us-ashburn-1"
+    ],
+    "duration": 53.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-05-18 19:42"
+  },
+  {
+    "issue": "3lpxjzb2zymg",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "Oracle",
+    "service": "Compute - Instances",
+    "location": [
+      "us-ashburn-1"
+    ],
+    "duration": 749.0,
+    "affect_rate": null,
+    "impact": "outage",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-05-11 20:40"
+  },
+  {
+    "issue": "9z44tcyvyzsc",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "Oracle",
+    "service": "Networking - Load Balancing",
+    "location": [
+      "us-ashburn-1"
+    ],
+    "duration": 226.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-05-10 12:00"
+  },
+  {
+    "issue": "1pmkyx4bmtns",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "Oracle",
+    "service": "Email Delivery - Email Approved Senders",
+    "location": [
+      "us-ashburn-1"
+    ],
+    "duration": 26.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-05-09 09:19"
+  },
+  {
+    "issue": "pvtxbxxpyh66",
+    "provider_type": "INFRASTRUCTURE_SERVICE_DNS",
+    "provider": "Oracle",
+    "service": "Edge Services - DNS Zone Management",
+    "location": [
+      "us-phoenix-1"
+    ],
+    "duration": 101.0,
+    "affect_rate": null,
+    "impact": "outage",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-05-04 11:11"
+  },
+  {
+    "issue": "sv8tkjfytxmb",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "Oracle",
+    "service": "Networking - Load Balancing",
+    "location": [
+      "us-phoenix-1"
+    ],
+    "duration": 157.0,
+    "affect_rate": null,
+    "impact": "outage",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-05-01 09:03"
+  },
+  {
+    "issue": "nzx5510sxp0f",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "Oracle",
+    "service": "Object Storage",
+    "location": [
+      "us-ashburn-1"
+    ],
+    "duration": 49.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-04-25 19:07"
+  },
+  {
+    "issue": "hbjg5v6q47gj",
+    "provider_type": "INFRASTRUCTURE_SERVICE_DNS",
+    "provider": "Oracle",
+    "service": "Email Delivery - Email Approved Senders (us-ashburn-1 region), Compute - Custom Images (us-phoenix-1 region), Object Storage (us-phoenix-1 region), Compute - Boot Volumes (us-phoenix-1 region), Compute - Instances (us-phoenix-1 region), Edge Services - DNS Zone Management (us-phoenix-1 region), File Storage (us-phoenix-1 region), Identity (us-phoenix-1 region), Networking - Load Balancing (us-phoenix-1 region), Networking - FastConnect (us-phoenix-1 region), Networking - Virtual Cloud Networks (us-phoenix-1 region), Database - Bare Metal, VM, Exadata (us-phoenix-1 region), and Networking - Dynamic Routing Gateways",
+    "location": [
+      "us-phoenix-1"
+    ],
+    "duration": 126.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-04-15 10:40"
+  },
+  {
+    "issue": "t3h5dmt9k5gq",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "Oracle",
+    "service": "Object Storage",
+    "location": [
+      "eu-frankfurt-1",
+      "uk-london-1",
+      "us-ashburn-1",
+      "us-phoenix-1"
+    ],
+    "duration": 117.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-04-12 18:15"
+  },
+  {
+    "issue": "2xsjkfb0mcbc",
+    "provider_type": "INFRASTRUCTURE_SERVICE_DNS",
+    "provider": "Oracle",
+    "service": "Edge Services - DNS Zone Management (eu-frankfurt-1 region, uk-london-1 region, us-ashburn-1 region, us-phoenix-1 region) and Edge Services - Internet Intelligence",
+    "location": [
+      "us-ashburn-1"
+    ],
+    "duration": 38.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-04-09 10:01"
+  },
+  {
+    "issue": "lbhfsqgddfcq",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "Oracle",
+    "service": "Networking - Dynamic Routing Gateways (us-ashburn-1 region) and Networking - FastConnect",
+    "location": [
+      "us-ashburn-1"
+    ],
+    "duration": 162.0,
+    "affect_rate": null,
+    "impact": "outage",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-04-09 00:37"
+  },
+  {
+    "issue": "0103khhf6t37",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "Oracle",
+    "service": "Compute - Instances",
+    "location": [
+      "eu-frankfurt-1",
+      "us-ashburn-1"
+    ],
+    "duration": 28.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-04-04 16:51"
+  },
+  {
+    "issue": "0cph1n5wg64v",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "Oracle",
+    "service": "Console",
+    "location": [
+      "ca-toronto-1"
+    ],
+    "duration": 239.0,
+    "affect_rate": null,
+    "impact": "outage",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-03-28 17:55"
+  },
+  {
+    "issue": "04jmd53x00yk",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "Oracle",
+    "service": "Console",
+    "location": [
+      "ca-toronto-1"
+    ],
+    "duration": 88.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-03-10 21:48"
+  },
+  {
+    "issue": "92cnzb4fcfkh",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "Oracle",
+    "service": "Networking - Load Balancing",
+    "location": [
+      "us-ashburn-1"
+    ],
+    "duration": 25.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-02-07 22:15"
+  },
+  {
+    "issue": "s67w0zqmhklc",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "Oracle",
+    "service": "Networking - Virtual Cloud Networks",
+    "location": [
+      "us-phoenix-1"
+    ],
+    "duration": 301.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-01-19 15:57"
+  },
+  {
+    "issue": "kp8p371jcthp",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "Oracle",
+    "service": "Compute - Instances (us-phoenix-1 region) and Database - Bare Metal, VM, Exadata",
+    "location": [
+      "us-phoenix-1"
+    ],
+    "duration": 2979.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-01-10 19:00"
+  },
+  {
+    "issue": "d0lpz2yjqs66",
+    "provider_type": "INFRASTRUCTURE_SERVICE_DNS",
+    "provider": "Oracle",
+    "service": "Edge Services - DNS Zone Management",
+    "location": [
+      "us-phoenix-1"
+    ],
+    "duration": 77.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-01-07 14:59"
+  },
+  {
+    "issue": "pjjng3cv29nw",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "Oracle",
+    "service": "Compute - Instances",
+    "location": [
+      "us-phoenix-1"
+    ],
+    "duration": 456.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-12-19 10:53"
+  },
+  {
+    "issue": "nbtwtql42syh",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "Oracle",
+    "service": "Compute - Instances",
+    "location": [
+      "eu-frankfurt-1",
+      "us-ashburn-1"
+    ],
+    "duration": 1014.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-12-14 15:45"
+  },
+  {
+    "issue": "6klkkw98qzr1",
+    "provider_type": "INFRASTRUCTURE_SERVICE_DNS",
+    "provider": "Oracle",
+    "service": "Edge Services - DNS Zone Management",
+    "location": [
+      "eu-frankfurt-1",
+      "us-ashburn-1",
+      "us-phoenix-1"
+    ],
+    "duration": 48.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-12-13 14:38"
+  },
+  {
+    "issue": "rhf916hbl46w",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "Oracle",
+    "service": "Networking - Virtual Cloud Networks (eu-frankfurt-1 region) and Networking - FastConnect",
+    "location": [
+      "eu-frankfurt-1"
+    ],
+    "duration": 922.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-11-17 18:28"
+  },
+  {
+    "issue": "85ns1ys3ygyw",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "Oracle",
+    "service": "Console",
+    "location": [
+      "ca-toronto-1"
+    ],
+    "duration": 171.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-10-30 12:18"
+  }
+]

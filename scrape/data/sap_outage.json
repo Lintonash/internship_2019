@@ -1,0 +1,5596 @@
+[
+  {
+    "issue": "x8lg1xdksvvm",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "All Advisories"
+    ],
+    "location": [
+      "Europe (Frankfurt) [cf-eu10]"
+    ],
+    "duration": 101.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2019-07-03 18:15"
+  },
+  {
+    "issue": "wqrfx8m1jhq1",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "Lifecycle Management",
+      "All Advisories"
+    ],
+    "location": [
+      "Europe (Rot) - Trial [neo-eu1-trial]"
+    ],
+    "duration": 39.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2019-07-03 15:16"
+  },
+  {
+    "issue": "sn4hp8b9hbld",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "Cloud Cockpit",
+      "Portal Service",
+      "Lifecycle Management",
+      "Mobile Services",
+      "All Advisories",
+      "Web IDE",
+      "Region Access"
+    ],
+    "location": [
+      "Brazil (S\u00e3o Paulo) [neo-br1]"
+    ],
+    "duration": 31.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2019-07-03 07:31"
+  },
+  {
+    "issue": "gb8jkq35vztq",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "Cloud Cockpit",
+      "Portal Service",
+      "Lifecycle Management",
+      "Mobile Services",
+      "All Advisories",
+      "Web IDE",
+      "Region Access"
+    ],
+    "location": [
+      "China (Shanghai) [neo-cn1]"
+    ],
+    "duration": 36.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2019-06-27 06:02"
+  },
+  {
+    "issue": "2x9v11kfw8fs",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "Cloud Cockpit",
+      "Portal Service",
+      "Lifecycle Management",
+      "Mobile Services",
+      "All Advisories",
+      "Web IDE",
+      "Region Access"
+    ],
+    "location": [
+      "Canada (Toronto) [neo-ca1]",
+      "China (Shanghai) [neo-cn1]",
+      "Australia (Sydney) [neo-ap1]",
+      "US East (Ashburn) [neo-us1]"
+    ],
+    "duration": 61.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2019-06-24 10:52"
+  },
+  {
+    "issue": "250k66r3thxv",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "All Advisories"
+    ],
+    "location": [
+      "Europe (Frankfurt) [neo-eu2]"
+    ],
+    "duration": 195.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2019-06-24 08:14"
+  },
+  {
+    "issue": "kq24jqz5x4s1",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "All Advisories"
+    ],
+    "location": [
+      "US East (Ashburn) [neo-us1]"
+    ],
+    "duration": 32.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2019-06-23 07:19"
+  },
+  {
+    "issue": "6mh9mkd6fz0r",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "SAP ID Service (accounts.sap.com)",
+      "Identity Authentication"
+    ],
+    "location": [],
+    "duration": 163.0,
+    "affect_rate": null,
+    "impact": "outage",
+    "cause": "",
+    "intensity": "",
+    "time": "2019-06-23 04:24"
+  },
+  {
+    "issue": "42jg5s4r2zh6",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "Cloud Cockpit",
+      "Portal Service",
+      "Lifecycle Management",
+      "Mobile Services",
+      "All Advisories",
+      "Web IDE",
+      "Region Access"
+    ],
+    "location": [
+      "Australia (Sydney) [neo-ap1]"
+    ],
+    "duration": 35.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2019-06-22 17:27"
+  },
+  {
+    "issue": "jmxljl421dkh",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "Cloud Cockpit",
+      "Portal Service",
+      "Lifecycle Management",
+      "Mobile Services",
+      "All Advisories",
+      "Web IDE",
+      "Region Access"
+    ],
+    "location": [
+      "Europe (Frankfurt) [neo-eu2]"
+    ],
+    "duration": 141.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2019-06-21 14:37"
+  },
+  {
+    "issue": "py444tn7mpqq",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "SAP ID Service (accounts.sap.com)",
+      "Identity Authentication"
+    ],
+    "location": [],
+    "duration": 78.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2019-06-20 01:51"
+  },
+  {
+    "issue": "0gqb2776b85j",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "All Advisories"
+    ],
+    "location": [
+      "US West (Chandler) [neo-us2]"
+    ],
+    "duration": 53.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2019-06-08 06:39"
+  },
+  {
+    "issue": "6fjdpg8g3087",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "Portal Service",
+      "All Advisories"
+    ],
+    "location": [
+      "US East (Sterling) [neo-us3]"
+    ],
+    "duration": 43.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2019-06-06 13:04"
+  },
+  {
+    "issue": "g529dkkjtdms",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "All Advisories"
+    ],
+    "location": [
+      "Europe (Frankfurt) [cf-eu10]"
+    ],
+    "duration": 104.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2019-06-06 10:54"
+  },
+  {
+    "issue": "czww6rftnqtv",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "Lifecycle Management",
+      "All Advisories"
+    ],
+    "location": [
+      "Europe (Frankfurt) [neo-eu2]"
+    ],
+    "duration": 125.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2019-06-05 15:10"
+  },
+  {
+    "issue": "pbyj21nyhsx6",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "All Advisories",
+      "Web IDE"
+    ],
+    "location": [
+      "Europe (Rot) [neo-eu1]"
+    ],
+    "duration": 85.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2019-06-05 10:34"
+  },
+  {
+    "issue": "kmvshsdzwhkn",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "Lifecycle Management",
+      "All Advisories"
+    ],
+    "location": [
+      "US Central (IA) [cf-us30]"
+    ],
+    "duration": 290.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2019-06-02 19:33"
+  },
+  {
+    "issue": "tsts5zd79m46",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "Cloud Cockpit",
+      "Portal Service",
+      "Lifecycle Management",
+      "Mobile Services",
+      "All Advisories",
+      "Web IDE",
+      "Region Access"
+    ],
+    "location": [
+      "Australia (Sydney) [neo-ap1]"
+    ],
+    "duration": 322.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2019-06-01 15:42"
+  },
+  {
+    "issue": "l5g09w2jbng4",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "All Advisories"
+    ],
+    "location": [
+      "US Central (IA) [cf-us30]"
+    ],
+    "duration": 67.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2019-05-25 00:05"
+  },
+  {
+    "issue": "c40gsb85lhyb",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "All Advisories"
+    ],
+    "location": [
+      "Europe (Rot) [cf-eu1]"
+    ],
+    "duration": 21.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2019-05-23 12:02"
+  },
+  {
+    "issue": "mhwyvmbdrqmn",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "All Advisories"
+    ],
+    "location": [
+      "US Central (IA) [cf-us30]"
+    ],
+    "duration": 171.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2019-05-21 06:58"
+  },
+  {
+    "issue": "4m9m6lr2rtcl",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "Cloud Cockpit",
+      "Portal Service",
+      "Lifecycle Management",
+      "Mobile Services",
+      "All Advisories",
+      "Web IDE",
+      "Region Access"
+    ],
+    "location": [
+      "Brazil (S\u00e3o Paulo) [neo-br1]"
+    ],
+    "duration": 22.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2019-05-20 15:00"
+  },
+  {
+    "issue": "nz6jgqpccj40",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "All Advisories"
+    ],
+    "location": [
+      "US Central (IA) [cf-us30]"
+    ],
+    "duration": 227.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2019-05-16 07:47"
+  },
+  {
+    "issue": "yjnk9ldcm5yt",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "Identity Authentication"
+    ],
+    "location": [],
+    "duration": 116.0,
+    "affect_rate": null,
+    "impact": "outage",
+    "cause": "",
+    "intensity": "",
+    "time": "2019-05-15 17:56"
+  },
+  {
+    "issue": "vl6hc23hzbr1",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 203.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2019-05-14 14:28"
+  },
+  {
+    "issue": "ft1rjynlr0d8",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "All Advisories",
+      "Web IDE"
+    ],
+    "location": [
+      "Brazil (S\u00e3o Paulo) [neo-br1]"
+    ],
+    "duration": 1037.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2019-05-13 19:09"
+  },
+  {
+    "issue": "p60vhqfb60sl",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "Cloud Cockpit",
+      "Portal Service",
+      "Lifecycle Management",
+      "Mobile Services",
+      "All Advisories",
+      "Web IDE",
+      "Region Access"
+    ],
+    "location": [
+      "Brazil (S\u00e3o Paulo) [neo-br1]"
+    ],
+    "duration": 105.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2019-05-13 16:15"
+  },
+  {
+    "issue": "c0d7lss74b5s",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "Mobile Services",
+      "All Advisories"
+    ],
+    "location": [
+      "Australia (Sydney) [cf-ap10]"
+    ],
+    "duration": 458.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2019-05-08 06:49"
+  },
+  {
+    "issue": "q13p95k4vbnv",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "All Advisories"
+    ],
+    "location": [
+      "Europe (Rot) - Trial [neo-eu1-trial]"
+    ],
+    "duration": 34.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2019-05-07 11:40"
+  },
+  {
+    "issue": "lfrqrh66tjs8",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "Lifecycle Management",
+      "All Advisories"
+    ],
+    "location": [
+      "Europe (Netherlands) [cf-eu20]"
+    ],
+    "duration": 42.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2019-05-02 21:09"
+  },
+  {
+    "issue": "12ltlxf8mh61",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "All Advisories"
+    ],
+    "location": [
+      "Europe (Rot) [neo-eu1]"
+    ],
+    "duration": 24.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2019-05-02 12:14"
+  },
+  {
+    "issue": "9tjnt7cyw9ky",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "Lifecycle Management",
+      "All Advisories"
+    ],
+    "location": [
+      "Europe (Rot) [cf-eu1]"
+    ],
+    "duration": 168.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2019-05-01 18:00"
+  },
+  {
+    "issue": "1fcmqjfdkp7n",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "Lifecycle Management",
+      "All Advisories"
+    ],
+    "location": [
+      "Europe (Rot) [cf-eu1]"
+    ],
+    "duration": 237.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2019-05-01 05:26"
+  },
+  {
+    "issue": "mp4j4b52345n",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "All Advisories"
+    ],
+    "location": [
+      "Europe (Rot) [neo-eu1]"
+    ],
+    "duration": 29.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2019-04-30 11:36"
+  },
+  {
+    "issue": "ylylzm52kt0y",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "All Advisories"
+    ],
+    "location": [
+      "US East (Sterling) [neo-us3]"
+    ],
+    "duration": 191.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2019-04-27 04:48"
+  },
+  {
+    "issue": "dvl410j0fhzw",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "All Advisories"
+    ],
+    "location": [
+      "Europe (Netherlands) [cf-eu20]"
+    ],
+    "duration": 70.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2019-04-24 17:46"
+  },
+  {
+    "issue": "z5t269z383tw",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "Cloud Cockpit",
+      "Portal Service",
+      "Lifecycle Management",
+      "All Advisories",
+      "Web IDE",
+      "Region Access"
+    ],
+    "location": [
+      "Russia (Moscow) [neo-ru1]"
+    ],
+    "duration": 95.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2019-04-22 17:58"
+  },
+  {
+    "issue": "55qzh3fn5t47",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "All Advisories"
+    ],
+    "location": [
+      "US East (Ashburn) [neo-us1]"
+    ],
+    "duration": 54.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2019-04-22 15:38"
+  },
+  {
+    "issue": "5f2rdsl2v1jl",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "Lifecycle Management",
+      "All Advisories"
+    ],
+    "location": [
+      "Singapore [cf-ap11]"
+    ],
+    "duration": 33.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2019-04-20 03:31"
+  },
+  {
+    "issue": "zkgzvzfqx6jp",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "All Advisories"
+    ],
+    "location": [
+      "US East (Ashburn) [neo-us1]"
+    ],
+    "duration": 25.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2019-04-15 19:01"
+  },
+  {
+    "issue": "1xsrw60gy0xh",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "Lifecycle Management",
+      "All Advisories"
+    ],
+    "location": [
+      "Australia (Sydney) [neo-ap1]"
+    ],
+    "duration": 1126.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2019-04-14 17:25"
+  },
+  {
+    "issue": "4zptmjkslk5t",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "Cloud Cockpit",
+      "Portal Service",
+      "Lifecycle Management",
+      "All Advisories",
+      "Web IDE",
+      "Region Access"
+    ],
+    "location": [
+      "Europe (Rot) [neo-eu1]"
+    ],
+    "duration": 40.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2019-04-11 13:44"
+  },
+  {
+    "issue": "93ktb5c8rmpc",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "All Advisories"
+    ],
+    "location": [
+      "Europe (Frankfurt) [cf-eu10]"
+    ],
+    "duration": 656.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2019-04-03 20:26"
+  },
+  {
+    "issue": "89wzwgbm143y",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "All Advisories"
+    ],
+    "location": [
+      "Europe (Netherlands) [cf-eu20]"
+    ],
+    "duration": 325.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2019-04-01 21:28"
+  },
+  {
+    "issue": "33x98pjq546d",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "All Advisories"
+    ],
+    "location": [
+      "Europe (Amsterdam) [neo-eu3]"
+    ],
+    "duration": 43.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2019-03-26 13:59"
+  },
+  {
+    "issue": "tjsn96wpbz1d",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "Lifecycle Management",
+      "All Advisories"
+    ],
+    "location": [
+      "Japan (Tokyo) [cf-jp10]"
+    ],
+    "duration": 53.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2019-03-25 08:07"
+  },
+  {
+    "issue": "v3mm9r9m9md5",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "Lifecycle Management",
+      "All Advisories"
+    ],
+    "location": [
+      "Japan (Tokyo) [cf-jp10]"
+    ],
+    "duration": 113.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2019-03-21 08:27"
+  },
+  {
+    "issue": "5b9nh40g5q0d",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "All Advisories"
+    ],
+    "location": [
+      "Europe (Frankfurt) [cf-eu10]"
+    ],
+    "duration": 263.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2019-03-20 03:04"
+  },
+  {
+    "issue": "92vn7fq4t97p",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "All Advisories"
+    ],
+    "location": [
+      "Europe (Rot) [cf-eu1]"
+    ],
+    "duration": 18.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2019-03-14 10:32"
+  },
+  {
+    "issue": "4t1rxjjpbtr5",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "Cloud Cockpit",
+      "Portal Service",
+      "Lifecycle Management",
+      "All Advisories",
+      "Web IDE",
+      "Region Access"
+    ],
+    "location": [
+      "US East (Ashburn) [neo-us1]"
+    ],
+    "duration": 31.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2019-03-13 06:34"
+  },
+  {
+    "issue": "1vh4wbt6hfg2",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "Lifecycle Management",
+      "All Advisories"
+    ],
+    "location": [
+      "US West (Chandler) [neo-us2]"
+    ],
+    "duration": 368.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2019-03-11 20:27"
+  },
+  {
+    "issue": "jy3262fnxcml",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "All Advisories"
+    ],
+    "location": [
+      "Europe (Rot) [neo-eu1]"
+    ],
+    "duration": 165.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2019-03-07 09:20"
+  },
+  {
+    "issue": "rmt2pr5l3drh",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "Lifecycle Management",
+      "All Advisories"
+    ],
+    "location": [
+      "Europe (Frankfurt) [cf-eu10]",
+      "US East (VA) [cf-us10]"
+    ],
+    "duration": 240.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2019-03-04 15:06"
+  },
+  {
+    "issue": "41x8c9xjpznc",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "Lifecycle Management",
+      "All Advisories"
+    ],
+    "location": [
+      "Europe (Netherlands) [cf-eu20]"
+    ],
+    "duration": 26.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2019-03-04 13:00"
+  },
+  {
+    "issue": "gkr4rz0mmljm",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "Cloud Cockpit",
+      "Portal Service",
+      "Lifecycle Management",
+      "All Advisories",
+      "Web IDE",
+      "Region Access"
+    ],
+    "location": [
+      "China (Shanghai) [neo-cn1]"
+    ],
+    "duration": 969.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2019-03-02 19:35"
+  },
+  {
+    "issue": "gx0xb7sqcb5v",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "Lifecycle Management",
+      "All Advisories"
+    ],
+    "location": [
+      "Europe (Frankfurt) [cf-eu10]"
+    ],
+    "duration": 36.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2019-03-01 02:06"
+  },
+  {
+    "issue": "v1f277qph36y",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "Cloud Cockpit",
+      "Portal Service",
+      "Lifecycle Management",
+      "All Advisories",
+      "Web IDE",
+      "Region Access"
+    ],
+    "location": [
+      "China (Shanghai) [neo-cn1]"
+    ],
+    "duration": 15.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2019-02-26 12:17"
+  },
+  {
+    "issue": "nr6r880lph98",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "Cloud Cockpit",
+      "Portal Service",
+      "Lifecycle Management",
+      "All Advisories",
+      "Web IDE",
+      "Region Access"
+    ],
+    "location": [
+      "Australia (Sydney) [neo-ap1]"
+    ],
+    "duration": 66.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2019-02-21 16:23"
+  },
+  {
+    "issue": "c021khwkwb3c",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "Portal Service",
+      "All Advisories"
+    ],
+    "location": [
+      "Europe (Rot) [neo-eu1]"
+    ],
+    "duration": 33.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2019-02-19 17:38"
+  },
+  {
+    "issue": "5rmfkqc2c7f3",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "All Advisories"
+    ],
+    "location": [
+      "US Central (IA) [cf-us30]"
+    ],
+    "duration": 148.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2019-02-15 03:54"
+  },
+  {
+    "issue": "hmxlqqqxp6pb",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "All Advisories"
+    ],
+    "location": [
+      "Europe (Rot) [neo-eu1]"
+    ],
+    "duration": 100.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2019-02-03 15:04"
+  },
+  {
+    "issue": "sxn00gk7ld2s",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "Lifecycle Management",
+      "All Advisories"
+    ],
+    "location": [
+      "US East (Ashburn) [neo-us1]"
+    ],
+    "duration": 31.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2019-01-28 10:23"
+  },
+  {
+    "issue": "8f35g2ycv5cn",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "Identity Authentication"
+    ],
+    "location": [],
+    "duration": 131.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2019-01-23 19:34"
+  },
+  {
+    "issue": "lgkjf93gz6p1",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "All Advisories"
+    ],
+    "location": [
+      "Europe (Rot) [cf-eu1]"
+    ],
+    "duration": 92.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2019-01-22 19:28"
+  },
+  {
+    "issue": "9rpsh21lz79s",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "All Advisories"
+    ],
+    "location": [
+      "Europe (Rot) [cf-eu1]"
+    ],
+    "duration": 56.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2019-01-20 05:02"
+  },
+  {
+    "issue": "2j4tcrpvdd1c",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "All Advisories"
+    ],
+    "location": [
+      "Europe (Rot) [neo-eu1]"
+    ],
+    "duration": 22.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2019-01-16 14:41"
+  },
+  {
+    "issue": "r60zcvkbk3pp",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "All Advisories"
+    ],
+    "location": [
+      "US East (Ashburn) [neo-us1]"
+    ],
+    "duration": 77.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2019-01-11 19:53"
+  },
+  {
+    "issue": "jxv6j3j1d96n",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "Portal Service",
+      "All Advisories"
+    ],
+    "location": [
+      "Europe (Rot) [neo-eu1]"
+    ],
+    "duration": 53.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2019-01-10 14:26"
+  },
+  {
+    "issue": "p5xyt7y76try",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "Portal Service"
+    ],
+    "location": [
+      "Europe (Rot) [neo-eu1]"
+    ],
+    "duration": 55.0,
+    "affect_rate": null,
+    "impact": "outage",
+    "cause": "",
+    "intensity": "",
+    "time": "2019-01-07 08:56"
+  },
+  {
+    "issue": "gyc3njvcm3cf",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "Cloud Cockpit",
+      "Portal Service",
+      "Lifecycle Management",
+      "All Advisories",
+      "SAP ID Service (accounts.sap.com)",
+      "Web IDE",
+      "Identity Authentication",
+      "Region Access"
+    ],
+    "location": [
+      "Europe (Netherlands) [cf-eu20]",
+      "US Central (IA) [cf-us30]",
+      "Japan (Tokyo) [neo-jp1]",
+      "Australia (Sydney) [cf-ap10]",
+      "Europe (Amsterdam) [neo-eu3]",
+      "Europe (Rot) [neo-eu1]",
+      "Brazil (S\u00e3o Paulo) [neo-br1]",
+      "KSA (Riyadh) [neo-sa1]",
+      "Canada (Toronto) [neo-ca1]",
+      "US West (Chandler) [neo-us2]",
+      "China (Shanghai) [neo-cn1]",
+      "US East (Sterling) [neo-us3]",
+      "UAE (Dubai) [neo-ae1]",
+      "Russia (Moscow) [neo-ru1]",
+      "Canada (Montreal) [cf-ca10]",
+      "Japan (Tokyo) [cf-jp10]",
+      "Singapore [cf-ap11]",
+      "Brazil (S\u00e3o Paulo) [cf-br10]",
+      "Europe (Rot) - Trial [neo-eu1-trial]",
+      "Australia (Sydney) [neo-ap1]",
+      "Europe (Rot) [cf-eu1]",
+      "Europe (Frankfurt) [neo-eu2]",
+      "Europe (Frankfurt) [cf-eu10]",
+      "US East (Ashburn) [neo-us1]",
+      "US East (VA) [cf-us10]"
+    ],
+    "duration": 82.0,
+    "affect_rate": null,
+    "impact": "outage",
+    "cause": "",
+    "intensity": "",
+    "time": "2019-01-06 06:44"
+  },
+  {
+    "issue": "5jpl1z2hs2v2",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "All Advisories",
+      "Web IDE"
+    ],
+    "location": [
+      "Europe (Rot) - Trial [neo-eu1-trial]"
+    ],
+    "duration": 61.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2019-01-06 01:19"
+  },
+  {
+    "issue": "8ntt3ntrqfs5",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "All Advisories"
+    ],
+    "location": [
+      "US Central (IA) [cf-us30]"
+    ],
+    "duration": 1886.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2019-01-03 15:19"
+  },
+  {
+    "issue": "7ntb01b77400",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "All Advisories"
+    ],
+    "location": [
+      "Europe (Rot) [neo-eu1]"
+    ],
+    "duration": 107.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2019-01-04 15:21"
+  },
+  {
+    "issue": "2yrmz3r8l86k",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "All Advisories"
+    ],
+    "location": [
+      "Singapore [cf-ap11]"
+    ],
+    "duration": 3239.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2019-12-29 13:30"
+  },
+  {
+    "issue": "0c5twgl72l4d",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "Lifecycle Management",
+      "All Advisories"
+    ],
+    "location": [
+      "Europe (Rot) [neo-eu1]"
+    ],
+    "duration": 313.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2019-12-19 00:05"
+  },
+  {
+    "issue": "b3q48gkcntxb",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "Cloud Cockpit",
+      "All Advisories"
+    ],
+    "location": [
+      "Europe (Rot) [neo-eu1]"
+    ],
+    "duration": 22.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2019-12-18 10:10"
+  },
+  {
+    "issue": "rn2fyrjm452m",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "All Advisories"
+    ],
+    "location": [
+      "Europe (Rot) [cf-eu1]"
+    ],
+    "duration": 153.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2019-12-11 20:16"
+  },
+  {
+    "issue": "6sqmp66plc9m",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "SAP ID Service (accounts.sap.com)",
+      "Identity Authentication"
+    ],
+    "location": [],
+    "duration": 85.0,
+    "affect_rate": null,
+    "impact": "outage",
+    "cause": "",
+    "intensity": "",
+    "time": "2019-12-07 11:56"
+  },
+  {
+    "issue": "rxrbfysqtzwq",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "All Advisories"
+    ],
+    "location": [
+      "Japan (Tokyo) [neo-jp1]",
+      "Europe (Amsterdam) [neo-eu3]",
+      "Europe (Rot) [neo-eu1]",
+      "Brazil (S\u00e3o Paulo) [neo-br1]",
+      "KSA (Riyadh) [neo-sa1]",
+      "Canada (Toronto) [neo-ca1]",
+      "US West (Chandler) [neo-us2]",
+      "China (Shanghai) [neo-cn1]",
+      "US East (Sterling) [neo-us3]",
+      "UAE (Dubai) [neo-ae1]",
+      "Russia (Moscow) [neo-ru1]",
+      "Europe (Rot) - Trial [neo-eu1-trial]",
+      "Australia (Sydney) [neo-ap1]",
+      "Europe (Rot) [cf-eu1]",
+      "Europe (Frankfurt) [neo-eu2]",
+      "US East (Ashburn) [neo-us1]"
+    ],
+    "duration": 49.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2019-12-02 07:27"
+  },
+  {
+    "issue": "8v61c51j714y",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "Lifecycle Management",
+      "All Advisories"
+    ],
+    "location": [
+      "Brazil (S\u00e3o Paulo) [cf-br10]"
+    ],
+    "duration": 75.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2019-12-01 13:03"
+  },
+  {
+    "issue": "41qmjswx45qk",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "All Advisories"
+    ],
+    "location": [
+      "Europe (Rot) [neo-eu1]"
+    ],
+    "duration": 21.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2019-12-01 08:09"
+  },
+  {
+    "issue": "tl2nckxwl0zf",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "All Advisories"
+    ],
+    "location": [
+      "Canada (Toronto) [neo-ca1]"
+    ],
+    "duration": 148.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2019-11-29 06:06"
+  },
+  {
+    "issue": "7dkz8pfc37zy",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "Cloud Cockpit",
+      "Portal Service",
+      "Lifecycle Management",
+      "All Advisories",
+      "Web IDE",
+      "Region Access"
+    ],
+    "location": [
+      "US West (Chandler) [neo-us2]"
+    ],
+    "duration": 399.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2019-11-20 02:54"
+  },
+  {
+    "issue": "79yvsk2r66rb",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "Lifecycle Management",
+      "All Advisories"
+    ],
+    "location": [
+      "Europe (Rot) [cf-eu1]"
+    ],
+    "duration": 2593.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2019-11-16 17:30"
+  },
+  {
+    "issue": "ptb7xs6vjk58",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "All Advisories"
+    ],
+    "location": [
+      "US West (Chandler) [neo-us2]"
+    ],
+    "duration": 59.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2019-11-14 09:55"
+  },
+  {
+    "issue": "7g3pthg60p2d",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "Lifecycle Management",
+      "All Advisories"
+    ],
+    "location": [
+      "Europe (Netherlands) [cf-eu20]"
+    ],
+    "duration": 26.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2019-11-13 13:08"
+  },
+  {
+    "issue": "tdjwdxpq0lk2",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "All Advisories"
+    ],
+    "location": [
+      "Europe (Rot) [cf-eu1]"
+    ],
+    "duration": 19.0,
+    "affect_rate": null,
+    "impact": "outage",
+    "cause": "",
+    "intensity": "",
+    "time": "2019-11-08 13:17"
+  },
+  {
+    "issue": "x5yfrn67y07j",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "All Advisories"
+    ],
+    "location": [
+      "Europe (Rot) [neo-eu1]"
+    ],
+    "duration": 42.0,
+    "affect_rate": null,
+    "impact": "outage",
+    "cause": "",
+    "intensity": "",
+    "time": "2019-11-08 12:52"
+  },
+  {
+    "issue": "4jw34dc1174g",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "Cloud Cockpit",
+      "Portal Service",
+      "Lifecycle Management",
+      "All Advisories",
+      "Web IDE",
+      "Region Access"
+    ],
+    "location": [
+      "Europe (Rot) [neo-eu1]"
+    ],
+    "duration": 128.0,
+    "affect_rate": null,
+    "impact": "outage",
+    "cause": "",
+    "intensity": "",
+    "time": "2019-11-07 13:48"
+  },
+  {
+    "issue": "syv77b9r7913",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "Lifecycle Management"
+    ],
+    "location": [
+      "US West (Chandler) [neo-us2]"
+    ],
+    "duration": 1379.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2019-11-05 12:33"
+  },
+  {
+    "issue": "gq4m4864y1pc",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "Lifecycle Management"
+    ],
+    "location": [
+      "Europe (Rot) [neo-eu1]"
+    ],
+    "duration": 56.0,
+    "affect_rate": null,
+    "impact": "outage",
+    "cause": "",
+    "intensity": "",
+    "time": "2019-11-05 08:30"
+  },
+  {
+    "issue": "wchrpzxqp6jy",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "All Advisories"
+    ],
+    "location": [
+      "US West (Chandler) [neo-us2]"
+    ],
+    "duration": 690.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2019-11-04 02:33"
+  },
+  {
+    "issue": "jldr7brkp8dn",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "Cloud Cockpit",
+      "Portal Service",
+      "Lifecycle Management",
+      "All Advisories",
+      "Web IDE",
+      "Region Access"
+    ],
+    "location": [
+      "Europe (Rot) [neo-eu1]"
+    ],
+    "duration": 135.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2019-11-03 02:06"
+  },
+  {
+    "issue": "mvpyrc44jv5c",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "All Advisories"
+    ],
+    "location": [
+      "Europe (Rot) [neo-eu1]"
+    ],
+    "duration": 20.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-10-29 13:46"
+  },
+  {
+    "issue": "93fsyp3fm7xg",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "All Advisories"
+    ],
+    "location": [
+      "Europe (Rot) [neo-eu1]"
+    ],
+    "duration": 127.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-10-21 00:46"
+  },
+  {
+    "issue": "9n3416mh1729",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "Cloud Cockpit",
+      "Portal Service",
+      "Lifecycle Management",
+      "All Advisories",
+      "Web IDE",
+      "Region Access"
+    ],
+    "location": [
+      "US West (Chandler) [neo-us2]"
+    ],
+    "duration": 43.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-10-16 08:40"
+  },
+  {
+    "issue": "bcj5mthxnhg0",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "Lifecycle Management",
+      "All Advisories"
+    ],
+    "location": [
+      "Europe (Rot) [cf-eu1]"
+    ],
+    "duration": 84.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-10-11 11:44"
+  },
+  {
+    "issue": "cdr1gbdp8d76",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "Lifecycle Management",
+      "All Advisories"
+    ],
+    "location": [
+      "Europe (Rot) [cf-eu1]"
+    ],
+    "duration": 33.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-10-11 09:10"
+  },
+  {
+    "issue": "62sd8srj58xr",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "Cloud Cockpit",
+      "Portal Service",
+      "Lifecycle Management",
+      "All Advisories",
+      "Web IDE",
+      "Region Access"
+    ],
+    "location": [
+      "Canada (Toronto) [neo-ca1]"
+    ],
+    "duration": 34.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-10-09 05:52"
+  },
+  {
+    "issue": "p5kmzwr0dmcz",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "Cloud Cockpit",
+      "Portal Service",
+      "Lifecycle Management",
+      "All Advisories",
+      "Web IDE",
+      "Region Access"
+    ],
+    "location": [
+      "US West (Chandler) [neo-us2]"
+    ],
+    "duration": 75.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-10-08 09:11"
+  },
+  {
+    "issue": "gw01gvqkfn48",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "Cloud Cockpit",
+      "Portal Service",
+      "Lifecycle Management",
+      "All Advisories",
+      "Web IDE",
+      "Region Access"
+    ],
+    "location": [
+      "Europe (Rot) [neo-eu1]"
+    ],
+    "duration": 62.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-10-07 02:06"
+  },
+  {
+    "issue": "cz5pxrb56bz4",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "Cloud Cockpit",
+      "Portal Service",
+      "Lifecycle Management",
+      "All Advisories",
+      "Web IDE",
+      "Region Access"
+    ],
+    "location": [
+      "China (Shanghai) [neo-cn1]"
+    ],
+    "duration": 486.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-10-04 20:18"
+  },
+  {
+    "issue": "pn2n83573wdc",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "Cloud Cockpit",
+      "Portal Service",
+      "Lifecycle Management",
+      "All Advisories",
+      "Web IDE",
+      "Region Access"
+    ],
+    "location": [
+      "Europe (Amsterdam) [neo-eu3]"
+    ],
+    "duration": 69.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-10-03 02:24"
+  },
+  {
+    "issue": "qt5rbn5rhcyf",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "Lifecycle Management"
+    ],
+    "location": [
+      "Europe (Netherlands) [cf-eu20]"
+    ],
+    "duration": 310.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-09-28 13:10"
+  },
+  {
+    "issue": "zrm514fslx1y",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "Lifecycle Management"
+    ],
+    "location": [
+      "Europe (Netherlands) [cf-eu20]"
+    ],
+    "duration": 96.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-09-28 09:22"
+  },
+  {
+    "issue": "hy09l2cbf3l8",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "Lifecycle Management"
+    ],
+    "location": [
+      "KSA (Riyadh) [neo-sa1]",
+      "Russia (Moscow) [neo-ru1]"
+    ],
+    "duration": 206.0,
+    "affect_rate": null,
+    "impact": "outage",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-09-27 12:51"
+  },
+  {
+    "issue": "m2mzpwbx2t0r",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "All Advisories"
+    ],
+    "location": [
+      "Australia (Sydney) [neo-ap1]"
+    ],
+    "duration": 180.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-09-26 10:22"
+  },
+  {
+    "issue": "nvxs3110l94n",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "All Advisories"
+    ],
+    "location": [
+      "US East (Sterling) [neo-us3]"
+    ],
+    "duration": 48.0,
+    "affect_rate": null,
+    "impact": "outage",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-09-25 08:02"
+  },
+  {
+    "issue": "tns1zx6ypfbm",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "Lifecycle Management"
+    ],
+    "location": [
+      "Europe (Rot) [neo-eu1]"
+    ],
+    "duration": 77.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-09-23 13:41"
+  },
+  {
+    "issue": "7wkkdn8h5hcz",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "Lifecycle Management",
+      "All Advisories",
+      "Region Access"
+    ],
+    "location": [
+      "Europe (Rot) [cf-eu1]"
+    ],
+    "duration": 447.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-09-21 08:36"
+  },
+  {
+    "issue": "py7nlqh5zn3m",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "All Advisories"
+    ],
+    "location": [
+      "Europe (Rot) [cf-eu1]"
+    ],
+    "duration": 257.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-09-21 01:41"
+  },
+  {
+    "issue": "0g7m73yy3jth",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "All Advisories"
+    ],
+    "location": [
+      "Europe (Rot) [cf-eu1]"
+    ],
+    "duration": 154.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-09-20 14:18"
+  },
+  {
+    "issue": "z1qtx17wfgd7",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "Portal Service",
+      "All Advisories"
+    ],
+    "location": [
+      "US East (Sterling) [neo-us3]"
+    ],
+    "duration": 97.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-09-17 17:26"
+  },
+  {
+    "issue": "8hd2n19kdm5s",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "Lifecycle Management"
+    ],
+    "location": [
+      "Europe (Rot) [cf-eu1]"
+    ],
+    "duration": 154.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-09-13 11:20"
+  },
+  {
+    "issue": "91n3vxdnb4w0",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "Lifecycle Management",
+      "All Advisories"
+    ],
+    "location": [
+      "Europe (Rot) [cf-eu1]"
+    ],
+    "duration": 298.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-09-11 16:37"
+  },
+  {
+    "issue": "9bsz8ydx3g6f",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "All Advisories"
+    ],
+    "location": [
+      "Europe (Rot) [cf-eu1]"
+    ],
+    "duration": 990.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-09-10 14:12"
+  },
+  {
+    "issue": "h4026tmsw7w9",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "Lifecycle Management"
+    ],
+    "location": [
+      "Europe (Rot) [cf-eu1]"
+    ],
+    "duration": 29.0,
+    "affect_rate": null,
+    "impact": "outage",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-09-10 09:23"
+  },
+  {
+    "issue": "rswgtb9tmv99",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "All Advisories"
+    ],
+    "location": [
+      "US East (Ashburn) [neo-us1]"
+    ],
+    "duration": 339.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-09-09 08:17"
+  },
+  {
+    "issue": "vw4jjzf8gqkz",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 133.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-09-05 14:17"
+  },
+  {
+    "issue": "kx9kpzqdqt1m",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "Lifecycle Management",
+      "All Advisories"
+    ],
+    "location": [
+      "China (Shanghai) [neo-cn1]"
+    ],
+    "duration": 53.0,
+    "affect_rate": null,
+    "impact": "outage",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-09-03 14:11"
+  },
+  {
+    "issue": "54qmvyy9pp0f",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "All Advisories"
+    ],
+    "location": [
+      "Europe (Rot) [cf-eu1]"
+    ],
+    "duration": 66.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-09-03 11:12"
+  },
+  {
+    "issue": "ds9rz15cyns3",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "Web IDE"
+    ],
+    "location": [
+      "Europe (Amsterdam) [neo-eu3]"
+    ],
+    "duration": 24.0,
+    "affect_rate": null,
+    "impact": "outage",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-09-03 06:39"
+  },
+  {
+    "issue": "t21ldd09200p",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "Cloud Cockpit",
+      "Portal Service",
+      "Lifecycle Management",
+      "All Advisories",
+      "Web IDE",
+      "Region Access"
+    ],
+    "location": [
+      "Japan (Tokyo) [neo-jp1]",
+      "Europe (Amsterdam) [neo-eu3]",
+      "Europe (Rot) [neo-eu1]",
+      "Brazil (S\u00e3o Paulo) [neo-br1]",
+      "KSA (Riyadh) [neo-sa1]",
+      "Canada (Toronto) [neo-ca1]",
+      "US West (Chandler) [neo-us2]",
+      "China (Shanghai) [neo-cn1]",
+      "US East (Sterling) [neo-us3]",
+      "UAE (Dubai) [neo-ae1]",
+      "Russia (Moscow) [neo-ru1]",
+      "Europe (Rot) - Trial [neo-eu1-trial]",
+      "Australia (Sydney) [neo-ap1]",
+      "US East (Ashburn) [neo-us1]"
+    ],
+    "duration": 549.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-09-02 02:22"
+  },
+  {
+    "issue": "c1yg0mmq2vtl",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "All Advisories"
+    ],
+    "location": [
+      "US East (Sterling) [neo-us3]"
+    ],
+    "duration": 49.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-09-02 09:35"
+  },
+  {
+    "issue": "qf6xnndgwy47",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "Lifecycle Management",
+      "All Advisories",
+      "Region Access"
+    ],
+    "location": [
+      "Europe (Rot) [cf-eu1]"
+    ],
+    "duration": 22.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-08-29 04:52"
+  },
+  {
+    "issue": "jj3bn7xtbw1v",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "All Advisories"
+    ],
+    "location": [
+      "Europe (Frankfurt) [cf-eu10]"
+    ],
+    "duration": 40.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-08-28 09:40"
+  },
+  {
+    "issue": "cw8wy5dyzd4y",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "Cloud Cockpit",
+      "Portal Service",
+      "Lifecycle Management",
+      "All Advisories",
+      "SAP ID Service (accounts.sap.com)",
+      "Web IDE",
+      "Identity Authentication",
+      "Region Access"
+    ],
+    "location": [
+      "Europe (Netherlands) [cf-eu20]",
+      "Japan (Tokyo) [neo-jp1]",
+      "Europe (Amsterdam) [neo-eu3]",
+      "Europe (Rot) [neo-eu1]",
+      "Brazil (S\u00e3o Paulo) [neo-br1]",
+      "KSA (Riyadh) [neo-sa1]",
+      "Canada (Toronto) [neo-ca1]",
+      "US West (Chandler) [neo-us2]",
+      "China (Shanghai) [neo-cn1]",
+      "US East (Sterling) [neo-us3]",
+      "UAE (Dubai) [neo-ae1]",
+      "Russia (Moscow) [neo-ru1]",
+      "Europe (Rot) - Trial [neo-eu1-trial]",
+      "Australia (Sydney) [neo-ap1]",
+      "US East (Ashburn) [neo-us1]"
+    ],
+    "duration": 1113.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-08-22 04:55"
+  },
+  {
+    "issue": "ms9hl4n8nb0z",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "Lifecycle Management"
+    ],
+    "location": [
+      "Canada (Toronto) [neo-ca1]"
+    ],
+    "duration": 104.0,
+    "affect_rate": null,
+    "impact": "outage",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-08-20 12:22"
+  },
+  {
+    "issue": "p4l27szf3nkz",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "All Advisories"
+    ],
+    "location": [
+      "US East (Sterling) [neo-us3]"
+    ],
+    "duration": 42.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-08-20 06:35"
+  },
+  {
+    "issue": "cqz895kvp0yd",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "All Advisories"
+    ],
+    "location": [
+      "US East (Ashburn) [neo-us1]"
+    ],
+    "duration": 42.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-08-20 06:35"
+  },
+  {
+    "issue": "kmm5w3rt9xyl",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "All Advisories"
+    ],
+    "location": [
+      "US East (Ashburn) [neo-us1]"
+    ],
+    "duration": 30.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-08-20 05:47"
+  },
+  {
+    "issue": "gt0wvp679n2z",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "All Advisories"
+    ],
+    "location": [
+      "US East (Ashburn) [neo-us1]"
+    ],
+    "duration": 129.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-08-18 06:28"
+  },
+  {
+    "issue": "mmqkwmqgqdfj",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "All Advisories"
+    ],
+    "location": [
+      "US East (Ashburn) [neo-us1]"
+    ],
+    "duration": 45.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-08-18 05:05"
+  },
+  {
+    "issue": "myhgsg3nqnm8",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "All Advisories"
+    ],
+    "location": [
+      "Europe (Rot) [neo-eu1]"
+    ],
+    "duration": 34.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-08-16 06:45"
+  },
+  {
+    "issue": "qpbsr10xlhhl",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "Lifecycle Management",
+      "All Advisories"
+    ],
+    "location": [
+      "Japan (Tokyo) [neo-jp1]"
+    ],
+    "duration": 246.0,
+    "affect_rate": null,
+    "impact": "outage",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-08-15 08:21"
+  },
+  {
+    "issue": "hsmrvnd2z28b",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "SAP ID Service (accounts.sap.com)",
+      "Identity Authentication"
+    ],
+    "location": [],
+    "duration": 100.0,
+    "affect_rate": null,
+    "impact": "outage",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-08-10 21:09"
+  },
+  {
+    "issue": "s78k4bl03w55",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "Cloud Cockpit",
+      "Portal Service",
+      "Lifecycle Management",
+      "All Advisories",
+      "Web IDE",
+      "Region Access"
+    ],
+    "location": [
+      "US East (Ashburn) [neo-us1]"
+    ],
+    "duration": 110.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-08-09 08:43"
+  },
+  {
+    "issue": "m4ftp5v5nsgj",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "Cloud Cockpit",
+      "Portal Service",
+      "Lifecycle Management",
+      "All Advisories",
+      "Region Access"
+    ],
+    "location": [
+      "US East (Sterling) [neo-us3]"
+    ],
+    "duration": 886.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-08-06 00:18"
+  },
+  {
+    "issue": "sc6bpkjtlzv0",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "Lifecycle Management"
+    ],
+    "location": [
+      "US East (VA) [cf-us10]"
+    ],
+    "duration": 25.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-08-06 14:09"
+  },
+  {
+    "issue": "v6488v1b3cz5",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "All Advisories"
+    ],
+    "location": [
+      "US East (Ashburn) [neo-us1]"
+    ],
+    "duration": 21.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-08-06 13:03"
+  },
+  {
+    "issue": "x4hfxsykb10g",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "Lifecycle Management",
+      "All Advisories"
+    ],
+    "location": [
+      "Europe (Rot) [cf-eu1]"
+    ],
+    "duration": 268.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-08-06 01:22"
+  },
+  {
+    "issue": "lz5c2hpgbqrs",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "Cloud Cockpit",
+      "Portal Service",
+      "Lifecycle Management",
+      "All Advisories",
+      "Web IDE",
+      "Region Access"
+    ],
+    "location": [
+      "US East (Ashburn) [neo-us1]"
+    ],
+    "duration": 44.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-07-30 19:01"
+  },
+  {
+    "issue": "p8lh0ssrxp87",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "Cloud Cockpit",
+      "Portal Service",
+      "Lifecycle Management",
+      "All Advisories",
+      "Web IDE",
+      "Region Access"
+    ],
+    "location": [
+      "US East (Ashburn) [neo-us1]"
+    ],
+    "duration": 103.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-07-26 09:38"
+  },
+  {
+    "issue": "zs80qnb1fcks",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "All Advisories"
+    ],
+    "location": [
+      "Europe (Rot) [neo-eu1]"
+    ],
+    "duration": 135.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-07-24 04:33"
+  },
+  {
+    "issue": "zr7jwgc84x68",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "All Advisories"
+    ],
+    "location": [
+      "US East (Sterling) [neo-us3]"
+    ],
+    "duration": 207.0,
+    "affect_rate": null,
+    "impact": "outage",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-07-16 03:53"
+  },
+  {
+    "issue": "bb0sh0fbrf8d",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "All Advisories"
+    ],
+    "location": [
+      "US West (Chandler) [neo-us2]"
+    ],
+    "duration": 92.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-07-14 04:59"
+  },
+  {
+    "issue": "x8gssrfm39bm",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "Web IDE"
+    ],
+    "location": [
+      "Europe (Amsterdam) [neo-eu3]"
+    ],
+    "duration": 116.0,
+    "affect_rate": null,
+    "impact": "outage",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-07-12 10:10"
+  },
+  {
+    "issue": "p0g1srkfnyp9",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "Cloud Cockpit",
+      "Portal Service",
+      "Lifecycle Management",
+      "All Advisories",
+      "Web IDE",
+      "Region Access"
+    ],
+    "location": [
+      "KSA (Riyadh) [neo-sa1]"
+    ],
+    "duration": 83.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-07-05 23:38"
+  },
+  {
+    "issue": "gs2bt1krbnym",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "Portal Service",
+      "Lifecycle Management",
+      "All Advisories",
+      "Web IDE"
+    ],
+    "location": [
+      "China (Shanghai) [neo-cn1]"
+    ],
+    "duration": 61.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-07-04 01:56"
+  },
+  {
+    "issue": "x7mk9crx02x1",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "Portal Service",
+      "All Advisories",
+      "Region Access"
+    ],
+    "location": [
+      "Australia (Sydney) [neo-ap1]"
+    ],
+    "duration": 70.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-06-25 16:35"
+  },
+  {
+    "issue": "b68x60ndl57h",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "Portal Service"
+    ],
+    "location": [
+      "Europe (Rot) [neo-eu1]"
+    ],
+    "duration": 23.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-06-21 12:26"
+  },
+  {
+    "issue": "qs7s97qg0jtv",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "Lifecycle Management"
+    ],
+    "location": [
+      "Europe (Frankfurt) [cf-eu10]"
+    ],
+    "duration": 24.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-06-20 13:59"
+  },
+  {
+    "issue": "p3bws0v5t952",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "Lifecycle Management",
+      "All Advisories"
+    ],
+    "location": [
+      "Europe (Rot) [neo-eu1]"
+    ],
+    "duration": 41.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-06-15 03:57"
+  },
+  {
+    "issue": "d8l5wqbvyh3s",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "All Advisories"
+    ],
+    "location": [
+      "Europe (Rot) [neo-eu1]"
+    ],
+    "duration": 117.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-06-13 03:15"
+  },
+  {
+    "issue": "rxxq3t7w7lxl",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "All Advisories"
+    ],
+    "location": [
+      "US East (Sterling) [neo-us3]"
+    ],
+    "duration": 151.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-06-12 05:04"
+  },
+  {
+    "issue": "c8y4f1nz0sm8",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "All Advisories"
+    ],
+    "location": [
+      "Europe (Frankfurt) [cf-eu10]"
+    ],
+    "duration": 270.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-06-07 10:52"
+  },
+  {
+    "issue": "63l12mfq5fb4",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "Cloud Cockpit",
+      "Portal Service",
+      "Lifecycle Management",
+      "All Advisories",
+      "Web IDE",
+      "Region Access"
+    ],
+    "location": [
+      "Australia (Sydney) [neo-ap1]"
+    ],
+    "duration": 51.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-06-07 11:56"
+  },
+  {
+    "issue": "tfg5q486k746",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "All Advisories"
+    ],
+    "location": [
+      "Europe (Rot) - Trial [neo-eu1-trial]"
+    ],
+    "duration": 265.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-05-31 13:11"
+  },
+  {
+    "issue": "szjnn15syf9f",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "All Advisories"
+    ],
+    "location": [
+      "US East (Ashburn) [neo-us1]"
+    ],
+    "duration": 22.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-05-31 04:24"
+  },
+  {
+    "issue": "fbyztn4jvd59",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "All Advisories"
+    ],
+    "location": [
+      "US East (Sterling) [neo-us3]"
+    ],
+    "duration": 22.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-05-31 04:24"
+  },
+  {
+    "issue": "8wx3v03ch1gj",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "All Advisories"
+    ],
+    "location": [
+      "US East (Ashburn) [neo-us1]"
+    ],
+    "duration": 23.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-05-30 05:19"
+  },
+  {
+    "issue": "nhsglf10hbpm",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "All Advisories"
+    ],
+    "location": [
+      "Europe (Rot) [neo-eu1]"
+    ],
+    "duration": 28.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-05-28 08:57"
+  },
+  {
+    "issue": "ctpbpb7ky5fw",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "All Advisories"
+    ],
+    "location": [
+      "Europe (Frankfurt) [cf-eu10]"
+    ],
+    "duration": 593.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-05-24 18:14"
+  },
+  {
+    "issue": "vk96s440cdwj",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "All Advisories"
+    ],
+    "location": [
+      "Australia (Sydney) [neo-ap1]"
+    ],
+    "duration": 101.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-05-23 06:44"
+  },
+  {
+    "issue": "rx7mpdkkzqzs",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "All Advisories"
+    ],
+    "location": [
+      "China (Shanghai) [neo-cn1]"
+    ],
+    "duration": 21.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-05-23 06:30"
+  },
+  {
+    "issue": "ql66jyn3cfld",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "All Advisories"
+    ],
+    "location": [
+      "Europe (Rot) [cf-eu1]"
+    ],
+    "duration": 69.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-05-20 05:23"
+  },
+  {
+    "issue": "dw345r9jgzpq",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "All Advisories"
+    ],
+    "location": [
+      "Japan (Tokyo) [neo-jp1]",
+      "Europe (Amsterdam) [neo-eu3]",
+      "Brazil (S\u00e3o Paulo) [neo-br1]",
+      "KSA (Riyadh) [neo-sa1]",
+      "Canada (Toronto) [neo-ca1]",
+      "China (Shanghai) [neo-cn1]",
+      "UAE (Dubai) [neo-ae1]",
+      "Russia (Moscow) [neo-ru1]"
+    ],
+    "duration": 28.0,
+    "affect_rate": null,
+    "impact": "outage",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-05-16 05:10"
+  },
+  {
+    "issue": "zv4pn9pvr8h0",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "SAP ID Service (accounts.sap.com)",
+      "Identity Authentication"
+    ],
+    "location": [],
+    "duration": 258.0,
+    "affect_rate": null,
+    "impact": "outage",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-05-16 01:11"
+  },
+  {
+    "issue": "x5dqz68yrbm3",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "Cloud Cockpit",
+      "Portal Service",
+      "Lifecycle Management",
+      "All Advisories",
+      "Web IDE",
+      "Identity Authentication",
+      "Region Access"
+    ],
+    "location": [
+      "Japan (Tokyo) [neo-jp1]",
+      "Europe (Amsterdam) [neo-eu3]",
+      "Europe (Rot) [neo-eu1]",
+      "Brazil (S\u00e3o Paulo) [neo-br1]",
+      "KSA (Riyadh) [neo-sa1]",
+      "Canada (Toronto) [neo-ca1]",
+      "US West (Chandler) [neo-us2]",
+      "China (Shanghai) [neo-cn1]",
+      "US East (Sterling) [neo-us3]",
+      "Russia (Moscow) [neo-ru1]",
+      "Europe (Rot) - Trial [neo-eu1-trial]",
+      "Australia (Sydney) [neo-ap1]",
+      "US East (Ashburn) [neo-us1]"
+    ],
+    "duration": 104.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-05-14 07:53"
+  },
+  {
+    "issue": "6wlglt266pl4",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "All Advisories"
+    ],
+    "location": [
+      "Europe (Frankfurt) [cf-eu10]"
+    ],
+    "duration": 184.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-05-01 11:08"
+  },
+  {
+    "issue": "5lbw0z21yk6r",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "All Advisories"
+    ],
+    "location": [
+      "US East (Ashburn) [neo-us1]"
+    ],
+    "duration": 22.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-04-29 06:08"
+  },
+  {
+    "issue": "lplgqq0t7dzf",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "All Advisories"
+    ],
+    "location": [
+      "Europe (Rot) [neo-eu1]"
+    ],
+    "duration": 100.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-04-27 02:59"
+  },
+  {
+    "issue": "rm6tjxvj7mbr",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "Portal Service",
+      "Lifecycle Management",
+      "All Advisories",
+      "Web IDE",
+      "Region Access"
+    ],
+    "location": [
+      "Brazil (S\u00e3o Paulo) [neo-br1]"
+    ],
+    "duration": 70.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-04-26 08:37"
+  },
+  {
+    "issue": "jtly8n93rc1y",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "Cloud Cockpit",
+      "Portal Service",
+      "Lifecycle Management",
+      "All Advisories",
+      "Web IDE",
+      "Region Access"
+    ],
+    "location": [
+      "Australia (Sydney) [neo-ap1]"
+    ],
+    "duration": 397.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-04-21 17:39"
+  },
+  {
+    "issue": "n82yc4kfyxlg",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "Lifecycle Management",
+      "All Advisories"
+    ],
+    "location": [
+      "Europe (Frankfurt) [cf-eu10]"
+    ],
+    "duration": 526.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-04-18 18:22"
+  },
+  {
+    "issue": "lcdlnr9bl0lh",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "All Advisories"
+    ],
+    "location": [
+      "US East (Sterling) [neo-us3]"
+    ],
+    "duration": 222.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-04-10 06:38"
+  },
+  {
+    "issue": "2nkm6tp8xpc3",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "All Advisories"
+    ],
+    "location": [
+      "Europe (Rot) [neo-eu1]"
+    ],
+    "duration": 85.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-04-06 13:01"
+  },
+  {
+    "issue": "44cvdldskm91",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "All Advisories"
+    ],
+    "location": [
+      "Europe (Frankfurt) [cf-eu10]"
+    ],
+    "duration": 138.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-04-05 23:07"
+  },
+  {
+    "issue": "wywl4h9kszzs",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "All Advisories"
+    ],
+    "location": [
+      "Europe (Rot) [neo-eu1]"
+    ],
+    "duration": 49.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-04-05 08:45"
+  },
+  {
+    "issue": "2phf7bm14ryr",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "Cloud Cockpit",
+      "All Advisories"
+    ],
+    "location": [
+      "Japan (Tokyo) [neo-jp1]",
+      "Europe (Amsterdam) [neo-eu3]",
+      "Europe (Rot) [neo-eu1]",
+      "Brazil (S\u00e3o Paulo) [neo-br1]",
+      "Canada (Toronto) [neo-ca1]",
+      "US West (Chandler) [neo-us2]",
+      "China (Shanghai) [neo-cn1]",
+      "US East (Sterling) [neo-us3]",
+      "UAE (Dubai) [neo-ae1]",
+      "Russia (Moscow) [neo-ru1]",
+      "Europe (Rot) - Trial [neo-eu1-trial]",
+      "Australia (Sydney) [neo-ap1]",
+      "US East (Ashburn) [neo-us1]"
+    ],
+    "duration": 155.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-04-01 16:53"
+  },
+  {
+    "issue": "6vt4xvw5bynq",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "Portal Service",
+      "All Advisories"
+    ],
+    "location": [
+      "Europe (Rot) - Trial [neo-eu1-trial]"
+    ],
+    "duration": 45.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-03-30 06:20"
+  },
+  {
+    "issue": "h90z1tk5wqr6",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "Lifecycle Management",
+      "All Advisories"
+    ],
+    "location": [
+      "Europe (Frankfurt) [cf-eu10]"
+    ],
+    "duration": 32.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-03-28 09:43"
+  },
+  {
+    "issue": "c1prjzss0xgn",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "Cloud Cockpit",
+      "Portal Service",
+      "Lifecycle Management",
+      "All Advisories",
+      "Web IDE",
+      "Region Access"
+    ],
+    "location": [
+      "Europe (Rot) [neo-eu1]"
+    ],
+    "duration": 71.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-03-27 13:30"
+  },
+  {
+    "issue": "r2yhp5drt46r",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "Cloud Cockpit",
+      "Portal Service",
+      "Lifecycle Management",
+      "All Advisories",
+      "Web IDE",
+      "Region Access"
+    ],
+    "location": [
+      "Europe (Rot) [neo-eu1]"
+    ],
+    "duration": 143.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-03-25 12:43"
+  },
+  {
+    "issue": "rx4ksywhfhvg",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "Portal Service",
+      "All Advisories",
+      "Web IDE"
+    ],
+    "location": [
+      "Europe (Rot) - Trial [neo-eu1-trial]"
+    ],
+    "duration": 35.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-03-21 16:21"
+  },
+  {
+    "issue": "pyl4hql5k5c5",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "Portal Service",
+      "All Advisories"
+    ],
+    "location": [
+      "Europe (Rot) - Trial [neo-eu1-trial]"
+    ],
+    "duration": 48.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-03-20 19:31"
+  },
+  {
+    "issue": "04mrx8kbshxc",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "All Advisories"
+    ],
+    "location": [
+      "Europe (Rot) [neo-eu1]"
+    ],
+    "duration": 25.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-03-14 14:47"
+  },
+  {
+    "issue": "hmnb1v7nrnhp",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "All Advisories"
+    ],
+    "location": [
+      "US East (Ashburn) [neo-us1]"
+    ],
+    "duration": 445.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-03-10 08:58"
+  },
+  {
+    "issue": "tprlqzn0r7t3",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 29.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-03-07 02:41"
+  },
+  {
+    "issue": "r7r53cgbw8ff",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "Cloud Cockpit",
+      "Portal Service",
+      "Lifecycle Management",
+      "All Advisories",
+      "Web IDE",
+      "Region Access"
+    ],
+    "location": [
+      "China (Shanghai) [neo-cn1]"
+    ],
+    "duration": 34.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-03-04 11:39"
+  },
+  {
+    "issue": "0vc7vtxv3v59",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "Cloud Cockpit",
+      "Portal Service",
+      "Lifecycle Management",
+      "All Advisories",
+      "SAP ID Service (accounts.sap.com)",
+      "Web IDE",
+      "Identity Authentication",
+      "Region Access"
+    ],
+    "location": [
+      "Japan (Tokyo) [neo-jp1]",
+      "Europe (Amsterdam) [neo-eu3]",
+      "Europe (Rot) [neo-eu1]",
+      "Brazil (S\u00e3o Paulo) [neo-br1]",
+      "Canada (Toronto) [neo-ca1]",
+      "US West (Chandler) [neo-us2]",
+      "China (Shanghai) [neo-cn1]",
+      "US East (Sterling) [neo-us3]",
+      "Russia (Moscow) [neo-ru1]",
+      "Europe (Rot) - Trial [neo-eu1-trial]",
+      "Australia (Sydney) [neo-ap1]",
+      "Europe (Frankfurt) [cf-eu10]",
+      "US East (Ashburn) [neo-us1]",
+      "US East (VA) [cf-us10]"
+    ],
+    "duration": 81.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-03-02 14:03"
+  },
+  {
+    "issue": "d0w210t8ycr7",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "Cloud Cockpit",
+      "Portal Service",
+      "Lifecycle Management",
+      "All Advisories",
+      "SAP ID Service (accounts.sap.com)",
+      "Web IDE",
+      "Identity Authentication",
+      "Region Access"
+    ],
+    "location": [
+      "Japan (Tokyo) [neo-jp1]",
+      "Europe (Amsterdam) [neo-eu3]",
+      "Europe (Rot) [neo-eu1]",
+      "Brazil (S\u00e3o Paulo) [neo-br1]",
+      "Canada (Toronto) [neo-ca1]",
+      "US West (Chandler) [neo-us2]",
+      "China (Shanghai) [neo-cn1]",
+      "US East (Sterling) [neo-us3]",
+      "Russia (Moscow) [neo-ru1]",
+      "Europe (Rot) - Trial [neo-eu1-trial]",
+      "Australia (Sydney) [neo-ap1]",
+      "Europe (Frankfurt) [cf-eu10]",
+      "US East (Ashburn) [neo-us1]",
+      "US East (VA) [cf-us10]"
+    ],
+    "duration": 79.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-03-01 11:03"
+  },
+  {
+    "issue": "jtcm90zpckcn",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "Cloud Cockpit",
+      "Portal Service",
+      "Lifecycle Management",
+      "All Advisories",
+      "Web IDE",
+      "Region Access"
+    ],
+    "location": [
+      "China (Shanghai) [neo-cn1]"
+    ],
+    "duration": 111.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-03-01 10:28"
+  },
+  {
+    "issue": "vrqzl7r62j9q",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 15.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-03-01 05:25"
+  },
+  {
+    "issue": "5r3jjrps3qv2",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [
+      "Cloud Cockpit",
+      "Portal Service",
+      "Lifecycle Management",
+      "All Advisories",
+      "SAP ID Service (accounts.sap.com)",
+      "Web IDE",
+      "Identity Authentication",
+      "Region Access"
+    ],
+    "location": [
+      "Japan (Tokyo) [neo-jp1]",
+      "Europe (Amsterdam) [neo-eu3]",
+      "Europe (Rot) [neo-eu1]",
+      "Brazil (S\u00e3o Paulo) [neo-br1]",
+      "Canada (Toronto) [neo-ca1]",
+      "US West (Chandler) [neo-us2]",
+      "China (Shanghai) [neo-cn1]",
+      "US East (Sterling) [neo-us3]",
+      "Russia (Moscow) [neo-ru1]",
+      "Europe (Rot) - Trial [neo-eu1-trial]",
+      "Australia (Sydney) [neo-ap1]",
+      "Europe (Frankfurt) [cf-eu10]",
+      "US East (Ashburn) [neo-us1]",
+      "US East (VA) [cf-us10]"
+    ],
+    "duration": 74.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-02-21 12:28"
+  },
+  {
+    "issue": "wtg2rxk2dvw3",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 186.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-02-13 09:50"
+  },
+  {
+    "issue": "rmfg45ftvk9w",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 34.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-02-09 15:24"
+  },
+  {
+    "issue": "km6kqvw5rp0v",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 37.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-02-06 14:38"
+  },
+  {
+    "issue": "gpzz09qlzdx8",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 21.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-02-06 10:23"
+  },
+  {
+    "issue": "786t4t4r1x76",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 178.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-02-01 02:57"
+  },
+  {
+    "issue": "rpcjgkwgzzvq",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 681.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-01-30 10:20"
+  },
+  {
+    "issue": "xrb4twc60s76",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 385.0,
+    "affect_rate": null,
+    "impact": "outage",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-01-28 11:24"
+  },
+  {
+    "issue": "m7tlsx6yb02v",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 193.0,
+    "affect_rate": null,
+    "impact": "outage",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-01-28 09:50"
+  },
+  {
+    "issue": "w9s60f0dx2lm",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 30.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-01-25 10:03"
+  },
+  {
+    "issue": "jtwjbqv4ypg1",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 79.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-01-20 06:56"
+  },
+  {
+    "issue": "g7yx1dgb06yp",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 100.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-01-12 00:23"
+  },
+  {
+    "issue": "zvbxn140vjv6",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 30.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-01-10 07:34"
+  },
+  {
+    "issue": "h479zdj2wn14",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 1160.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-01-05 20:16"
+  },
+  {
+    "issue": "9fp5b0pwbxns",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 55.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-12-18 16:23"
+  },
+  {
+    "issue": "w5lqlw8b4l3s",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 336.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-12-08 22:38"
+  },
+  {
+    "issue": "8lm1m7r569gt",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 119.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-12-07 15:56"
+  },
+  {
+    "issue": "d76swmrmcmfn",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 19.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-12-06 10:50"
+  },
+  {
+    "issue": "v7qf26msp79t",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 18.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-12-04 11:58"
+  },
+  {
+    "issue": "znklgsntx6dj",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 96.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-11-23 14:55"
+  },
+  {
+    "issue": "srdnd42q3ps0",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 133.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-11-15 15:26"
+  },
+  {
+    "issue": "tpyb8g0tvy9j",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 259.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-10-27 13:23"
+  },
+  {
+    "issue": "44cqpgc9b3gk",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 22.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-10-26 14:49"
+  },
+  {
+    "issue": "zpckd7513s64",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 57.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-10-11 07:17"
+  },
+  {
+    "issue": "jgd3mx7kjcp3",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 59.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-10-07 04:31"
+  },
+  {
+    "issue": "7fnf6vb67vzg",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 196.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-10-06 16:09"
+  },
+  {
+    "issue": "gmnknpf192cs",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 44.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-10-05 07:39"
+  },
+  {
+    "issue": "881lkb99cldq",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 117.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-10-02 10:06"
+  },
+  {
+    "issue": "b2w6m2ll1j4d",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 66.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-09-27 07:15"
+  },
+  {
+    "issue": "9jqm3pyry384",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 63.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-09-25 13:45"
+  },
+  {
+    "issue": "x5b2c8n9l2zr",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 640.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-09-19 04:14"
+  },
+  {
+    "issue": "bd16mcdpggs8",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 709.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-09-16 18:50"
+  },
+  {
+    "issue": "2dycp94fgsv3",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 119.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-09-17 02:04"
+  },
+  {
+    "issue": "lpb55y1c90gg",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 67.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-09-14 19:10"
+  },
+  {
+    "issue": "pb72l88b0djj",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 60.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-09-12 11:10"
+  },
+  {
+    "issue": "vkmd07m361hp",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 375.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-09-07 02:31"
+  },
+  {
+    "issue": "14tf1cty7wg5",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 271.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-08-31 15:46"
+  },
+  {
+    "issue": "37m4y5bdck4s",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 63.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-08-28 13:33"
+  },
+  {
+    "issue": "bckjgdrq1gl0",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 78.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-08-20 11:00"
+  },
+  {
+    "issue": "ykc6n7zxl74z",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 74.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-08-20 10:59"
+  },
+  {
+    "issue": "4h4z44sjmtjt",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 338.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-08-18 17:10"
+  },
+  {
+    "issue": "cwcxwm4rjplh",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 63.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-08-14 05:16"
+  },
+  {
+    "issue": "v33pzclk2n75",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 220.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-08-06 04:57"
+  },
+  {
+    "issue": "65js40g0cglt",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 25.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-08-05 16:00"
+  },
+  {
+    "issue": "0b79jp1ty03s",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 210.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-08-03 13:23"
+  },
+  {
+    "issue": "j5kh097nx3zs",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 92.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-08-03 10:27"
+  },
+  {
+    "issue": "xpn19n3qfz9f",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 3543.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-07-31 01:55"
+  },
+  {
+    "issue": "d57dmxl87jc4",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 63.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-08-02 07:42"
+  },
+  {
+    "issue": "l0gjp2465h7z",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 313.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-07-31 10:26"
+  },
+  {
+    "issue": "p79tw5tlxchh",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 258.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-07-31 02:45"
+  },
+  {
+    "issue": "cvt40zl03b10",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 32.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-07-28 13:17"
+  },
+  {
+    "issue": "t7l6kl6xpqbd",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 895.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-07-27 20:44"
+  },
+  {
+    "issue": "pr9yc9mjjx1f",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 191.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-07-26 13:34"
+  },
+  {
+    "issue": "cmfs3by20vx3",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 22.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-07-26 15:32"
+  },
+  {
+    "issue": "yxr3rxr68341",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 417.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-07-24 10:44"
+  },
+  {
+    "issue": "33q4td1ybkrz",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 309.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-07-23 03:47"
+  },
+  {
+    "issue": "51j1bxkw89z2",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 531.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-07-18 16:22"
+  },
+  {
+    "issue": "2bkfmb0bh16l",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 122.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-07-14 09:19"
+  },
+  {
+    "issue": "m1bdj2ljzw5z",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 40.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-07-10 11:30"
+  },
+  {
+    "issue": "252pg714fy4w",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 31.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-07-04 16:18"
+  },
+  {
+    "issue": "ff5hpld0r0cw",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 26.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-06-30 12:11"
+  },
+  {
+    "issue": "02nkxz1665hd",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 57.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-06-24 01:28"
+  },
+  {
+    "issue": "tkqrkcvnh9xd",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 58.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-06-23 13:50"
+  },
+  {
+    "issue": "0hmssdllnz12",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 1807.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-06-20 14:20"
+  },
+  {
+    "issue": "7w7z9xgzfrdh",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 350.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-06-15 21:51"
+  },
+  {
+    "issue": "wr004sf809yv",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 567.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-06-13 16:39"
+  },
+  {
+    "issue": "0zkxc08wfdwg",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 23.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-06-08 08:42"
+  },
+  {
+    "issue": "h4lk9mtpxgdx",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 29.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-06-06 06:22"
+  },
+  {
+    "issue": "h29dr2fp95m1",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 249.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-06-02 13:52"
+  },
+  {
+    "issue": "2jbc8h23j2yx",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 70.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-06-02 03:05"
+  },
+  {
+    "issue": "gz7n1rdb9gmp",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 82.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-05-31 16:39"
+  },
+  {
+    "issue": "f0l9nkxm0b8h",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 161.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-05-24 21:34"
+  },
+  {
+    "issue": "4vm2xlm0z2lf",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 63.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-05-22 10:46"
+  },
+  {
+    "issue": "1mc1lfb0sk9h",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 292.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-05-18 07:55"
+  },
+  {
+    "issue": "8vbf9drvpc35",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 107.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-05-15 16:18"
+  },
+  {
+    "issue": "d0t34jsps8xs",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 19.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-05-11 07:04"
+  },
+  {
+    "issue": "2hzz08fx2n7t",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 273.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-05-10 03:15"
+  },
+  {
+    "issue": "8r80dx9zccpk",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 260.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-05-09 16:16"
+  },
+  {
+    "issue": "859tpj696nvm",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 21.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-05-09 07:49"
+  },
+  {
+    "issue": "cp7d0tr8fwgb",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 260.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-05-08 12:05"
+  },
+  {
+    "issue": "tq10hv0k79b9",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 352.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-05-04 18:41"
+  },
+  {
+    "issue": "9pgj9l5j9wj2",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 16.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-05-03 13:54"
+  },
+  {
+    "issue": "lnmjtz67kj40",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 77.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-04-29 00:46"
+  },
+  {
+    "issue": "scwg0jpblqrn",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 64.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-04-26 13:06"
+  },
+  {
+    "issue": "5xdqp8853780",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 183.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-04-26 02:36"
+  },
+  {
+    "issue": "vpt4m9lhbgk1",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 92.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-04-23 01:56"
+  },
+  {
+    "issue": "zjttq9yqc42g",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 87.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-04-14 16:00"
+  },
+  {
+    "issue": "bkx82sct7dj4",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 1260.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-04-11 13:27"
+  },
+  {
+    "issue": "yfgfbrlfq3m0",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 757.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-04-10 17:51"
+  },
+  {
+    "issue": "dhcl98vq3pzd",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 38.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-04-10 10:30"
+  },
+  {
+    "issue": "5btbdj47t50c",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 39.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-03-23 20:53"
+  },
+  {
+    "issue": "zpzrpvtlptck",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 948.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-03-22 21:24"
+  },
+  {
+    "issue": "j92rkvjn6f5x",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 101.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-03-22 09:46"
+  },
+  {
+    "issue": "dv0fk1b6jj5l",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 47.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-03-21 18:56"
+  },
+  {
+    "issue": "n636qp9mrp6b",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 56.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-03-20 20:11"
+  },
+  {
+    "issue": "v6lr54vj20ln",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 136.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-03-20 10:54"
+  },
+  {
+    "issue": "k50q0vv6dgyl",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 462.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-03-18 02:03"
+  },
+  {
+    "issue": "zktgg9xg08sr",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 81.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-03-16 15:00"
+  },
+  {
+    "issue": "06hlpg71hx1h",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 167.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-03-06 13:58"
+  },
+  {
+    "issue": "bwll0z3kpdhv",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 314.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-03-04 19:16"
+  },
+  {
+    "issue": "kk07sn78kzw1",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 104.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-03-03 11:57"
+  },
+  {
+    "issue": "0lyzz9s7nj3p",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 29.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-03-03 11:56"
+  },
+  {
+    "issue": "2jsllqfywv34",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 81.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-02-28 15:51"
+  },
+  {
+    "issue": "sdkhz7kx6rcd",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 47.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-02-23 11:53"
+  },
+  {
+    "issue": "y15ft485n0cc",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 223.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-02-22 04:53"
+  },
+  {
+    "issue": "2c6js03d67gs",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 88.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-02-22 07:07"
+  },
+  {
+    "issue": "lc5dcbrypkwb",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 214.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-02-22 04:23"
+  },
+  {
+    "issue": "yq38tts4f1tl",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 25.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-02-16 18:59"
+  },
+  {
+    "issue": "fyq076kdd03n",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 104.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-02-16 17:13"
+  },
+  {
+    "issue": "3gqjxtlfn9z3",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 54.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-02-16 14:09"
+  },
+  {
+    "issue": "j9pvzdmytk6d",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 116.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-02-16 13:02"
+  },
+  {
+    "issue": "prp009sj9qll",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 1211.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-02-13 16:24"
+  },
+  {
+    "issue": "cz7v2bl2v5t5",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 131.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-02-14 09:05"
+  },
+  {
+    "issue": "n7djsrn6tspj",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 101.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-02-11 18:14"
+  },
+  {
+    "issue": "5z87sgjhxhsr",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 15.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-02-10 10:58"
+  },
+  {
+    "issue": "t9vqqyrx3tm3",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 35.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-02-09 14:55"
+  },
+  {
+    "issue": "1pzycl7254kd",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 41.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-02-03 20:37"
+  },
+  {
+    "issue": "jmnbyp1yw48b",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 91.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-01-31 06:20"
+  },
+  {
+    "issue": "4rw4byydwbd3",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 107.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-01-30 11:55"
+  },
+  {
+    "issue": "r24qtfjs72pk",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 178.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-01-28 13:39"
+  },
+  {
+    "issue": "gb6zqlkrhxr0",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 33.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-01-27 15:43"
+  },
+  {
+    "issue": "cy8pg73r4kdf",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 69.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-01-27 14:32"
+  },
+  {
+    "issue": "rbhjw3tx7985",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 86.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-01-26 01:04"
+  },
+  {
+    "issue": "czb2hb4zv5nn",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 223.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-01-25 08:49"
+  },
+  {
+    "issue": "fgrfzkv9hrqn",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 367.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-01-20 10:12"
+  },
+  {
+    "issue": "jfrsl84yc4c2",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 1160.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-01-18 20:00"
+  },
+  {
+    "issue": "r2s15zr4pt3c",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 135.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-01-10 19:18"
+  },
+  {
+    "issue": "pjp738pyjqr5",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 79.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-01-09 09:32"
+  },
+  {
+    "issue": "278x4v746jj1",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 101.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-01-06 21:07"
+  },
+  {
+    "issue": "1vgmcwsvyysv",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 160.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-01-06 18:28"
+  },
+  {
+    "issue": "q8dksy2hcxf4",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 36.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-01-05 21:57"
+  },
+  {
+    "issue": "hgbf3scppxnq",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 190.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-01-03 05:30"
+  },
+  {
+    "issue": "dfyh9999kg13",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 203.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-12-28 11:42"
+  },
+  {
+    "issue": "l7wwv0sn4q2j",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 1461.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-12-22 10:14"
+  },
+  {
+    "issue": "nvrqf1n4xhc5",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 17.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-12-21 07:24"
+  },
+  {
+    "issue": "9y6cw4ycnnsx",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 6557.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-12-16 10:53"
+  },
+  {
+    "issue": "yt3b0hhv4590",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 29.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-12-18 17:06"
+  },
+  {
+    "issue": "znr03g3sbs6d",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 25.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-12-18 15:17"
+  },
+  {
+    "issue": "xhlfgzvykfkz",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 68.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-12-16 19:21"
+  },
+  {
+    "issue": "2hjtyg8d1dbp",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 94.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-12-08 15:46"
+  },
+  {
+    "issue": "71z24cph6g6g",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 18.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-12-08 14:05"
+  },
+  {
+    "issue": "brm9zhq8jx78",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 102.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-12-05 10:54"
+  },
+  {
+    "issue": "57jw0cm9v0y7",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 44.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-11-22 17:13"
+  },
+  {
+    "issue": "sxkw3t7vtvzb",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 100.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2017-11-17 16:53"
+  },
+  {
+    "issue": "xqwks6v8lc05",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 68.0,
+    "affect_rate": null,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2016-08-09 06:17"
+  },
+  {
+    "issue": "6vzw1pqrczmv",
+    "provider_type": "INFRASTRUCTURE_SERVICE_HOSTING",
+    "provider": "SAP",
+    "service": [],
+    "location": [],
+    "duration": 1381.0,
+    "affect_rate": null,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2016-05-31 15:14"
+  }
+]

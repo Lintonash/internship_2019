@@ -1,0 +1,81 @@
+{
+  "INFRASTRUCTURE_SERVICE_HOSTING": {
+    "AWS": [
+      "amazon"
+    ],
+    "Azure": [
+      "microsoft"
+    ],
+    "GCP": [
+      "google"
+    ],
+    "IBM Cloud Platform": [
+      "ibm"
+    ],
+    "Salesforce": [
+      "salesforce"
+    ],
+    "Oracle": [
+      "oracle"
+    ]
+  },
+  "INFRASTRUCTURE_SERVICE_EMAIL": {
+    "GSuite": [
+      "google",
+      "gsuite"
+    ],
+    "Microsoft 365": [
+      "microsoft",
+      "outlook"
+    ],
+    "GoDaddy Email": [
+      "godaddy"
+    ]
+  },
+  "INFRASTRUCTURE_SERVICE_DNS": {
+    "DNSMadeEasy": [
+      "easy",
+      "managed"
+    ],
+    "AWS Route 53": [
+      "amazon"
+    ],
+    "GoDaddy DNS": [
+      "godaddy"
+    ],
+    "Azure DNS": [
+      "microsoft"
+    ],
+    "Neustar": [
+      "neustar"
+    ]
+  },
+  "INFRASTRUCTURE_SERVICE_CRM": {
+    "Sales Cloud": [
+      "salesforce"
+    ],
+    "IBM Marketing Cloud": [
+      "ibm"
+    ],
+    "Oracle Engagement Cloud": [
+      "oracle"
+    ]
+  },
+  "INFRASTRUCTURE_SERVICE_CONTENT_DELIVERY_NETWORK": {
+    "AWS Cloudfront": [
+      "amazon"
+    ],
+    "Google": [
+      "google"
+    ],
+    "Cloudflare CDN": [
+      "cloudflare"
+    ],
+    "Akamai Edge": [
+      "akamai"
+    ],
+    "Fastly CDN": [
+      "fastly"
+    ]
+  }
+}

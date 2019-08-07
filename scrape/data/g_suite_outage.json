@@ -1,0 +1,402 @@
+[
+  {
+    "provider_type": [
+      "SaaS"
+    ],
+    "provider": "G_Suite",
+    "service": [
+      "Hangouts Meet"
+    ],
+    "location": "",
+    "duration": 139,
+    "affect_rate": 0.5,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2019-06-18 17:54",
+    "issue": "43969099d3cc7ba2f452161e4f7a497a"
+  },
+  {
+    "provider_type": [
+      "SaaS"
+    ],
+    "provider": "G_Suite",
+    "service": [
+      "Google Calendar"
+    ],
+    "location": "",
+    "duration": 171,
+    "affect_rate": 0.5,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2019-06-18 17:22",
+    "issue": "cc21ebe3962430b2e4ae2b52e3dde98f"
+  },
+  {
+    "provider_type": [
+      "INFRASTRUCTURE_SERVICE_EMAIL"
+    ],
+    "provider": "G_Suite",
+    "service": [
+      "Gmail"
+    ],
+    "location": "",
+    "duration": 57,
+    "affect_rate": 0.5,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2019-06-17 21:05",
+    "issue": "ebde53dc07f139712e8269e0f523e6cb"
+  },
+  {
+    "provider_type": [
+      "SaaS",
+      "INFRASTRUCTURE_SERVICE_EMAIL"
+    ],
+    "provider": "G_Suite",
+    "service": [
+      "Admin console",
+      "Google Realtime API",
+      "Google Sync for Mobile",
+      "Google Voice",
+      "Google Tasks",
+      "Google Keep",
+      "Google Forms",
+      "Google Vault",
+      "Hangouts Meet",
+      "Hangouts Chat",
+      "Google Hangouts",
+      "Google Groups",
+      "Google Sites",
+      "Google Slides",
+      "Google Sheets",
+      "Google Docs",
+      "Google Drive",
+      "Google Calendar",
+      "Gmail"
+    ],
+    "location": "Eastern USA",
+    "duration": 253,
+    "affect_rate": 0.5,
+    "impact": "",
+    "cause": "",
+    "intensity": "",
+    "time": "2019-06-02 23:15",
+    "issue": "74a7efa47b9de665d02699bbe9dd11fc"
+  },
+  {
+    "provider_type": [
+      "SaaS"
+    ],
+    "provider": "G_Suite",
+    "service": [
+      "Hangouts Chat",
+      "Google Hangouts"
+    ],
+    "location": "",
+    "duration": 12,
+    "affect_rate": 0.5,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2019-05-28 23:44",
+    "issue": "19f9832d3728125ce9d23a65b6d6ff3b"
+  },
+  {
+    "provider_type": [
+      "SaaS"
+    ],
+    "provider": "G_Suite",
+    "service": [
+      "Admin console"
+    ],
+    "location": "",
+    "duration": 34,
+    "affect_rate": 0.5,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2019-05-20 16:56",
+    "issue": "fcac96e18ac3a7e91ee8a3afb2f8004b"
+  },
+  {
+    "provider_type": [
+      "SaaS"
+    ],
+    "provider": "G_Suite",
+    "service": [
+      "Admin console"
+    ],
+    "location": "",
+    "duration": 181,
+    "affect_rate": 0.5,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2019-05-17 21:23",
+    "issue": "a8793f5ae244952ec10bae8b1c7eddca"
+  },
+  {
+    "provider_type": [
+      "INFRASTRUCTURE_SERVICE_EMAIL"
+    ],
+    "provider": "G_Suite",
+    "service": [
+      "Gmail"
+    ],
+    "location": "",
+    "duration": 103,
+    "affect_rate": 0.5,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2019-05-09 02:40",
+    "issue": "e287a05e9ee515a2ad24a58eaa5b2e33"
+  },
+  {
+    "provider_type": [
+      "INFRASTRUCTURE_SERVICE_EMAIL"
+    ],
+    "provider": "G_Suite",
+    "service": [
+      "Gmail"
+    ],
+    "location": "",
+    "duration": 74,
+    "affect_rate": 0.5,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2019-05-07 01:16",
+    "issue": "415c8eefb3c58515fc8505861c8a62f1"
+  },
+  {
+    "provider_type": [
+      "SaaS"
+    ],
+    "provider": "G_Suite",
+    "service": [
+      "Hangouts Meet"
+    ],
+    "location": "",
+    "duration": 26,
+    "affect_rate": 0.5,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2019-05-02 14:08",
+    "issue": "70c8bd72b9dfa3e16aadc1800207e1c0"
+  },
+  {
+    "provider_type": [
+      "SaaS"
+    ],
+    "provider": "G_Suite",
+    "service": [
+      "Admin console"
+    ],
+    "location": "",
+    "duration": 78,
+    "affect_rate": 0.5,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2019-04-18 01:19",
+    "issue": "8a047e6b103d63bacaaf1ece646648ff"
+  },
+  {
+    "provider_type": [
+      "SaaS"
+    ],
+    "provider": "G_Suite",
+    "service": [
+      "Google Hangouts"
+    ],
+    "location": "",
+    "duration": 11,
+    "affect_rate": 0.5,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2019-04-11 04:40",
+    "issue": "dd99571e1e206e4aa8c75931807dfd2b"
+  },
+  {
+    "provider_type": [
+      "SaaS",
+      "INFRASTRUCTURE_SERVICE_EMAIL"
+    ],
+    "provider": "G_Suite",
+    "service": [
+      "Google Drive",
+      "Gmail"
+    ],
+    "location": "",
+    "duration": 200,
+    "affect_rate": 0.5,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2019-03-13 04:53",
+    "issue": "082ee9e7a232740761ef507d7ac31eb2"
+  },
+  {
+    "provider_type": [
+      "INFRASTRUCTURE_SERVICE_EMAIL"
+    ],
+    "provider": "G_Suite",
+    "service": [
+      "Gmail"
+    ],
+    "location": "",
+    "duration": 160,
+    "affect_rate": 0.5,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2019-02-21 09:04",
+    "issue": "ca12406488423e44f8452b779f9d04ad"
+  },
+  {
+    "provider_type": [
+      "INFRASTRUCTURE_SERVICE_EMAIL"
+    ],
+    "provider": "G_Suite",
+    "service": [
+      "Gmail"
+    ],
+    "location": "",
+    "duration": 74,
+    "affect_rate": 0.5,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2019-02-05 20:10",
+    "issue": "366f3a7bd51af8441fd97852989b300f"
+  },
+  {
+    "provider_type": [
+      "SaaS",
+      "INFRASTRUCTURE_SERVICE_EMAIL"
+    ],
+    "provider": "G_Suite",
+    "service": [
+      "Admin console",
+      "Classroom",
+      "Google Forms",
+      "Google+",
+      "Google Vault",
+      "Hangouts Meet",
+      "Hangouts Chat",
+      "Google Hangouts",
+      "Google Groups",
+      "Google Sites",
+      "Google Slides",
+      "Google Sheets",
+      "Google Docs",
+      "Google Drive",
+      "Google Calendar",
+      "Gmail"
+    ],
+    "location": "",
+    "duration": 49,
+    "affect_rate": 0.5,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2019-01-29 13:50",
+    "issue": "d8c52d15f9cab60823bbd15d46a00708"
+  },
+  {
+    "provider_type": [
+      "SaaS"
+    ],
+    "provider": "G_Suite",
+    "service": [
+      "Admin console"
+    ],
+    "location": "",
+    "duration": 24,
+    "affect_rate": 0.5,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2019-01-15 22:36",
+    "issue": "e3a1263bc07bbb2b41ed038c50d08c27"
+  },
+  {
+    "provider_type": [
+      "INFRASTRUCTURE_SERVICE_EMAIL"
+    ],
+    "provider": "G_Suite",
+    "service": [
+      "Gmail"
+    ],
+    "location": "",
+    "duration": 34,
+    "affect_rate": 0.5,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-12-06 06:38",
+    "issue": "d54f812b7b839a54c8f491ef14184565"
+  },
+  {
+    "provider_type": [
+      "SaaS",
+      "INFRASTRUCTURE_SERVICE_EMAIL"
+    ],
+    "provider": "G_Suite",
+    "service": [
+      "Google+",
+      "Google Hangouts",
+      "Google Sites",
+      "Google Drive",
+      "Gmail"
+    ],
+    "location": "",
+    "duration": 105,
+    "affect_rate": 0.5,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-10-31 04:47",
+    "issue": "80db5d6458ec8a82796cff01cd648324"
+  },
+  {
+    "provider_type": [
+      "SaaS"
+    ],
+    "provider": "G_Suite",
+    "service": [
+      "Admin console"
+    ],
+    "location": "",
+    "duration": 31,
+    "affect_rate": 0.5,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-10-30 09:56",
+    "issue": "aef34e8a345ed29b7af3dc3317ee5005"
+  },
+  {
+    "provider_type": [
+      "SaaS"
+    ],
+    "provider": "G_Suite",
+    "service": [
+      "Google Hangouts"
+    ],
+    "location": "",
+    "duration": 30,
+    "affect_rate": 0.5,
+    "impact": "degradation",
+    "cause": "",
+    "intensity": "",
+    "time": "2018-10-04 07:14",
+    "issue": "0b5bdb79d46d228c4b82ee8caf9ade28"
+  }
+]

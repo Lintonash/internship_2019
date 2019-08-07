@@ -1,0 +1,12 @@
+issue,provider_type,provider,service,location,duration,affect_rate,impact,cause,intensity,time
+20181124,PaaS,AWS,dns resolution,AP-NORTHEAST-2,84,,outage,update bug,,2018-11-24 00:00
+20170228,PaaS,AWS,storage,US-EAST-1,221,1,outage,command typo,,2017-02-28 00:00
+20150920,PaaS,AWS,db,US-EAST,291,0.55,outage,capacity,,2015-09-20 00:00
+20140807,PaaS,AWS,compute cloud/db/block store,EU-WEST,188,0.79,outage,provider failure,,2015-08-07 00:00
+20140613,PaaS,AWS,db,US-EAST,254,,outage,power lost,,2014-06-13 00:00
+20131220,PaaS,AWS,,SA-EAST-1,20,1,degradation,bad configuration,,2013-12-20 00:00
+20121224,PaaS,AWS,load balancing,US-EAST,1459,0.068,outage,maintenancew mistake,,2012-12-24 00:00
+20121022,PaaS,AWS,block store,US-EAST,375,,outage,hardware replacement,,2012-10-22 00:00
+20120702,PaaS,AWS,compute cloud/db/load balancing,US-EAST-1,441,0.07,outage,electrical storm,,2012-07-02 00:00
+20110608,PaaS,AWS,compute cloud/db/block store,Sydney,264,,outage,weather,,2011-06-08 00:00
+20110429,PaaS,AWS,compute cloud/db/block store,US-EAST,703,0.13,outage,incorrect routing to secondary network,,2011-04-29 00:00

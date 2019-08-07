@@ -1,0 +1,51 @@
+{
+  "INFRASTRUCTURE_SERVICE_HOSTING": {
+    "probability": 0.32837376251953915,
+    "provider": {
+      "Azure": 0.3954891161814844,
+      "AWS": 0.34592184631523737,
+      "Rackspace": 0.08025177025963807,
+      "GCP": 0.14135851035929714,
+      "IBM Cloud Platform": 0.00944138473642801,
+      "Oracle": 0.026226068712300026,
+      "Salesforce": 0.0013113034356150013
+    }
+  },
+  "INFRASTRUCTURE_SERVICE_EMAIL": {
+    "probability": 0.41828286921785446,
+    "provider": {
+      "Microsoft 365": 0.7816023738872404,
+      "GSuite": 0.20089020771513352,
+      "GoDaddy Email": 0.010385756676557863,
+      "Zoho": 0.007121661721068249
+    }
+  },
+  "INFRASTRUCTURE_SERVICE_DNS": {
+    "probability": 0.038325710646674,
+    "provider": {
+      "DNSMadeEasy": 0.1762652705061082,
+      "AWS Route 53": 0.30715532286212915,
+      "GoDaddy DNS": 0.17801047120418848,
+      "Neustar": 0.14136125654450263,
+      "NS1": 0.04013961605584642,
+      "Azure DNS": 0.15706806282722513
+    }
+  },
+  "INFRASTRUCTURE_SERVICE_CRM": {
+    "probability": 0.0144734556822787,
+    "provider": {
+      "Sales Cloud": 0.8971428571428571,
+      "Oracle Engagement Cloud": 0.10285714285714286
+    }
+  },
+  "INFRASTRUCTURE_SERVICE_CONTENT_DELIVERY_NETWORK": {
+    "probability": 0.2005442019336537,
+    "provider": {
+      "Cloudflare CDN": 0.4405869720830351,
+      "AWS Cloudfront": 0.2444523979957051,
+      "Akamai Edge": 0.2559055118110236,
+      "Google": 0.02290622763063708,
+      "Fastly CDN": 0.03614889047959914
+    }
+  }
+}
